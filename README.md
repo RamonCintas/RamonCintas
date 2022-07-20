@@ -24,7 +24,47 @@
   ![Snake animation](https://github.com/RamonCintas/RamonCintas/blob/output/github-contribution-grid-snake.svg) </a>
 
 ##  
+
 <div align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamonCintas&layout=compact&langs_count=7&theme=gruvbox"/>
 </div>
 
+##
+
+<div align="center"> 
+  <b><h1>Perfil</h1></b>
+</div>
+
+<div>
+  <img align="right" alt="Ramon-pic" height="150" style="border-radius:50px;" src="https://i.giphy.com/media/uvoECTG2uCTrG/giphy.webp?width=676&height=676">
+</div>
+
+## Sobre mim
+
+- Tenho facilidade em manter um bom relacionamento interpessoal e a capacidade de adaptar-me a normas e procedimentos, e também desenvolver o trabalho em equipe, boa comunicação de forma clara e concisa, proativo para identificar as prioridades da empresa. 
+- Estou sempre buscando aprimoramento profissional e pessoal para evoluir nas mais diversas áreas de conhecimento para encontrar e / ou desenvolver soluções criativas para problemas complexos de curto e longo prazo. 
+- Tenho o hábito de revisar e verificar alguma possível melhoria em um projeto, capacidade de trabalhar de forma independente e sob pressão e um bom gerenciamento de tempo e de projetos. 
+- Sempre utilizo a educação, respeito, empatia, transparência, valores éticos e morais, resiliência e atenção aos detalhes para desenvolver todas as minhas atividades.
+
+## Conhecimentos | Habilidades
+* Desenvolvimento : Python , HTML, CSS.
+* Agile: Scrum, Kanban
+* Versionamento: Git, GitHub.
+* Pacote Office: Word, Excel, Power Point.
+* Sistemas Operacionais: Windows.
+* Outros: Visual Studio Code, Notepad ++.
+
+## Aprendendo
+* Python
+* HTML
+* CSS
+* Git
+* GitHub
+
+## Interesses
+* BI 
+* Big Data 
+* Data Analyst 
+* Data Engineer 
+* Data Science 
+* DBA
