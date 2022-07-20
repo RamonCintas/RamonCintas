@@ -1,4 +1,12 @@
-## Ramon Cintas, [ BI | Big Data | Data Analyst | Data Engineer | Data Science | DBA ]
+<div align="center">
+  <b>Ramon Cintas</b>
+</div>
+
+<div align="center">
+  <b>| BI | Big Data | Data Analyst | Data Engineer | Data Science | DBA |</b>
+</div>
+
+##
 
 <div align="center">
   <a href="https://www.linkedin.com/in/ramon-cg/">
@@ -18,11 +26,12 @@
  <a href="https://github.com/RamonCintas" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> 
   <a href = "mailto:ramoncg.oficial2018@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-  ![Snake animation](https://github.com/RamonCintas/RamonCintas/blob/output/github-contribution-grid-snake.svg)
 </div>
+  
+  ![Snake animation](https://github.com/RamonCintas/RamonCintas/blob/output/github-contribution-grid-snake.svg) </a>
 
 ##  
 <div align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamonCintas&layout=compact&langs_count=7&theme=gruvbox"/>
 </div>
+
