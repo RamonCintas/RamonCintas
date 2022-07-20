@@ -1,9 +1,9 @@
 <div align="center">
-  <b><h3>Ramon Cintas<h3></b>
+  <b><h2>Ramon Cintas<h2></b>
 </div>
 
 <div align="center">
-  <b><h3>| BI | Big Data | Data Analyst | Data Engineer | Data Science | DBA |<h3></b>
+  <b><h2>| BI | Big Data | Data Analyst | Data Engineer | Data Science | DBA |<h2></b>
 </div>
 
 <div align="center">
