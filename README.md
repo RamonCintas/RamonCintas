@@ -1,4 +1,4 @@
-## Ramon Cintas | BI | Big Data | Data Analyst | Data Engineer | Data Science | DBA | 🏆🏅🎖️🥇  
+## Ramon Cintas | BI | Big Data | Data Analyst | Data Engineer | Data Science | DBA | 🏆🏅🥇  
 
 <div align="center">
   <a href="https://www.linkedin.com/in/ramon-cg/">
