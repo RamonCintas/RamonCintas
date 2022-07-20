@@ -10,6 +10,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Ramon-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Ramon-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Ramon-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="right" alt="Ramon-pic" height="150" style="border-radius:50px;" src="https://i.giphy.com/media/MC6eSuC3yypCU/giphy.webp?width=676&height=676">
 </div>
   
