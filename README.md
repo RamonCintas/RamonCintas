@@ -1,10 +1,9 @@
 <div align="center">
-  <b><h2>Ramon Cintas<h2></b>
+  <b>Ramon Cintas</b>
+  <b>| BI | Big Data | Data Analyst | Data Engineer | Data Science | DBA |</b>
 </div>
 
-<div align="center">
-  <b><h2>| BI | Big Data | Data Analyst | Data Engineer | Data Science | DBA |<h2></b>
-</div>
+##   
 
 <div align="center">
   <a href="https://www.linkedin.com/in/ramon-cg/">
