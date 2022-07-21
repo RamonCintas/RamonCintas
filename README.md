@@ -32,6 +32,18 @@
 
 ##
 
+<div align="center">
+  <b><h1>🎖️ Top Repositories 🎖️</h1></b>
+  <a href="https://github.com/RamonCintas/RamonCintas">
+  <img height="150em align="eight" src="https://github-readme-stats.vercel.app/api/pin/?username=RamonCintas&repo=RamonCintas&theme=gruvbox" />
+  </a>
+  <a href="https://github.com/RamonCintas/URI-Online-Judge-beecrowd">
+  <img height="150em align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=RamonCintas&repo=URI-Online-Judge-beecrowd&theme=gruvbox" />
+  </a>
+</div>
+
+##
+
 <div align="center"> 
   <b><h1>👨‍🎓 Perfil 👨‍🎓</h1></b>
 </div>
