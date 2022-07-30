@@ -71,7 +71,7 @@
 * Pacote Office: Excel, Power Point, Word.
 * Sistemas Operacionais: Windows.
 * Container: Kubernetes, Docker, Rancher, AKS.
-* Server local: XAMPP
+* Servidor local: XAMPP
 * Idiomas: Português, Inglês, Espanhol. 
 * Outros: Visual Studio Code, Notepad ++, WordPress, Putty, Filezilla.
 
