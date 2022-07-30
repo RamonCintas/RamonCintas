@@ -63,18 +63,25 @@
 - Sempre utilizo a educação, respeito, empatia, transparência, valores éticos e morais, resiliência e atenção aos detalhes para desenvolver todas as minhas atividades.
 
 ## 💻 Conhecimentos | Habilidades 💻
-* Desenvolvimento : Python.
+* Desenvolvimento : Python, R.
+* Bibliotecas: Scikit-Learn, PyTorch, Pandas, Plotly, Numpy, Keras, Bokeh.
+* Metodologia ágil: Scrum, Kanban, Scrumban, JIRA.
 * Banco de dados: Firebase.
-* Versionamento: Git, GitHub.
+* Versionamento: Git, GitHub, Jenkins.
 * Pacote Office: Excel, Power Point, Word.
 * Sistemas Operacionais: Windows.
-* Local Server: XAMPP
+* Container: Kubernetes, Docker, Rancher, AKS.
+* Server local: XAMPP
 * Idiomas: Português, Inglês, Espanhol. 
 * Outros: Visual Studio Code, Notepad ++, WordPress, Putty, Filezilla.
 
 ## 📖 Aprendendo 📖
-* Desenvolvimento : Python.
-* Versionamento: Git, GitHub.
+* Desenvolvimento : Python, R.
+* Bibliotecas: Scikit-Learn, PyTorch, Pandas, Plotly, Numpy, Keras, Bokeh.
+* Metodologia ágil: Scrum, Kanban, Scrumban, JIRA.
+* Versionamento: Git, GitHub, Jenkins.
+* Container: Kubernetes, Docker, Rancher, AKS.
+* Idiomas: Inglês, Espanhol. 
 
 ## 🔍 Interesses 🔎
 * Big Data 
