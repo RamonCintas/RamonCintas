@@ -73,7 +73,7 @@
 * Desenvolvimento : Python, Java, HTML, CSS.
 * Metodologia ágil: Scrum, Kanban, Scrumban.
 * Banco de dados: Firebase.
-* Versionamento: Git, GitHub.
+* Versionamento: Git, GitHub, Jenkins.
 * Pacote Office: Excel, Power Point, Word.
 * Sistemas Operacionais: Windows.
 * Servidor local: XAMPP
