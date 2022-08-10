@@ -1,4 +1,5 @@
-## Ramon Cintas [ Big Data | Analyst | Engineer | Scientist | BI | Cloud | DBA ] 🏆🏅🥇  
+## Ramon Cintas 🏆🏅🥇
+## [ Analista de Sistemas | Desenvolvedor | Engenheiro de Software | Full Stack | Programador ]   
 
 <div align="center">
   <a href="https://www.linkedin.com/in/ramon-cg/">
@@ -11,6 +12,7 @@
   <img align="center" alt="Ramon-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Ramon-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ramon-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img align="center" alt="Ramon-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Ramon-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="Ramon-GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
   <img align="center" alt="Ramon-Windows" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
@@ -63,31 +65,25 @@
 - Sempre utilizo a educação, respeito, empatia, transparência, valores éticos e morais, resiliência e atenção aos detalhes para desenvolver todas as minhas atividades.
 
 ## 💻 Conhecimentos | Habilidades 💻
-* Desenvolvimento : Python, R.
-* Bibliotecas: Scikit-Learn, PyTorch, Pandas, Plotly, Numpy, Keras, Bokeh.
-* Metodologia ágil: Scrum, Kanban, Scrumban, JIRA.
+* Desenvolvimento : Python, Java, HTML, CSS.
+* Metodologia ágil: Scrum, Kanban, Scrumban.
 * Banco de dados: Firebase.
-* Versionamento: Git, GitHub, Jenkins.
+* Versionamento: Git, GitHub.
 * Pacote Office: Excel, Power Point, Word.
 * Sistemas Operacionais: Windows.
-* Container: Kubernetes, Docker, Rancher, AKS.
 * Servidor local: XAMPP
-* Idiomas: Português, Inglês, Espanhol. 
+* Idiomas: Português, Inglês.
 * Outros: Visual Studio Code, Notepad ++, WordPress, Putty, Filezilla.
 
 ## 📖 Aprendendo 📖
-* Desenvolvimento : Python, R.
-* Bibliotecas: Scikit-Learn, PyTorch, Pandas, Plotly, Numpy, Keras, Bokeh.
-* Metodologia ágil: Scrum, Kanban, Scrumban, JIRA.
-* Versionamento: Git, GitHub, Jenkins.
-* Container: Kubernetes, Docker, Rancher, AKS.
-* Idiomas: Inglês, Espanhol. 
+* Desenvolvimento : Python, Java, HTML, CSS.
+* Metodologia ágil: Scrum, Kanban, Scrumban.
+* Versionamento: Git, GitHub.
+* Idioma: Inglês.
 
 ## 🔍 Interesses 🔎
-* Big Data 
-* Data Analyst 
-* Data Engineer 
-* Data Scientist 
-* Cloud
-* BI
-* DBA
+* Analista de Sistemas 
+* Desenvolvedor  
+* Engenheiro de Software 
+* Full Stack
+* Programador
