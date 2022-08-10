@@ -71,7 +71,7 @@
 
 ## 💻 Conhecimentos | Habilidades 💻
 * Desenvolvimento : Python, Java, HTML, CSS.
-* Metodologia ágil: Scrum, Kanban, Scrumban.
+* Metodologia ágil: Scrum, Kanban, Scrumban, Jira.
 * Banco de dados: Firebase.
 * Versionamento: Git, GitHub, Jenkins.
 * Pacote Office: Excel, Power Point, Word.
