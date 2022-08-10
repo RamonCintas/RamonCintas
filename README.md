@@ -1,4 +1,14 @@
+<div align="center"> 
+  <b><h1>Ramon Cintas 🏆🏅🥇</h1></b>
+</div>
+
 ## Ramon Cintas 🏆🏅🥇
+Ramon Cintas 🏆🏅🥇
+
+<div align="center"> 
+  <b><h1>[ Analista de Sistemas | Desenvolvedor | Engenheiro de Software | Full Stack | Programador ]</h1></b>
+</div>
+
 ## [ Analista de Sistemas | Desenvolvedor | Engenheiro de Software | Full Stack | Programador ]   
 
 <div align="center">
