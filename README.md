@@ -4,11 +4,8 @@
 
 <div align="center"> 
   <b><h1>[ Analista de Sistemas | Desenvolvedor ]</h1></b>
-  <b><h1>[ Engenheiro de Software | Full Stack ]</h1></b>
-  <b><h1>[ Programador ]</h1></b>
-</div>
-
-## [ Analista de Sistemas | Desenvolvedor | Engenheiro de Software | Full Stack | Programador ]   
+  <b><h1>[ Engenheiro de Software | Full Stack | Programador ]</h1></b>
+</div>  
 
 <div align="center">
   <a href="https://www.linkedin.com/in/ramon-cg/">
