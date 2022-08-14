@@ -3,7 +3,7 @@
 </div>
 
 <div align="center"> 
-  <b><h1>[ Analista de Sistemas | Desenvolvedor ] 🏅</h1></b>
+  <b><h1>[ Analista de Sistemas | Desenvolvedor | DevOps ] 🏅</h1></b>
   <b><h1>[ Engenheiro de Software | Full Stack | Programador ] 🎖️</h1></b>
 </div>  
 
