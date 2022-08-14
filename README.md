@@ -1,10 +1,10 @@
 <div align="center"> 
-  <b><h1>Ramon Cintas 🏆🏅🥇</h1></b>
+  <b><h1>Ramon Cintas 🏆</h1></b>
 </div>
 
 <div align="center"> 
-  <b><h1>[ Analista de Sistemas | Desenvolvedor ]</h1></b>
-  <b><h1>[ Engenheiro de Software | Full Stack | Programador ]</h1></b>
+  <b><h1>[ Analista de Sistemas | Desenvolvedor ] 🏅</h1></b>
+  <b><h1>[ Engenheiro de Software | Full Stack | Programador ] 🎖️</h1></b>
 </div>  
 
 <div align="center">
@@ -19,10 +19,19 @@
   <img align="center" alt="Ramon-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ramon-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="Ramon-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" alt="Ramon-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
+  <img align="center" alt="Ramon-JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="Ramon-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="Ramon-GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+  <img align="center" alt="Ramon-Jenkins" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg">
+  <img align="center" alt="Ramon-Jira" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg">
+  <img align="center" alt="Ramon-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="Ramon-FileZilla" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg">
+  <img align="center" alt="Ramon-Putty" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg">
+  <img align="center" alt="Ramon-firebase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg">
+  <img align="center" alt="Ramon-WordPress" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg">
   <img align="center" alt="Ramon-Windows" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
-  <img align="right" alt="Ramon-pic" height="150" style="border-radius:50px;" src="https://i.giphy.com/media/MC6eSuC3yypCU/giphy.webp?width=676&height=676">
+  <img align="right" alt="Ramon-Neo" height="150" style="border-radius:50px;" src="https://i.giphy.com/media/MC6eSuC3yypCU/giphy.webp?width=676&height=676">
 </div>
   
 ##
@@ -44,7 +53,7 @@
 ##
 
 <div align="center">
-  <b><h1>🎖️ Top Repositories 🎖️</h1></b>
+  <b><h1>🥇 Top Repositories 🥇</h1></b>
   <a href="https://github.com/RamonCintas/RamonCintas">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RamonCintas&repo=RamonCintas&theme=gruvbox" />
   </a>
@@ -70,14 +79,14 @@
 - Sempre utilizo a educação, respeito, empatia, transparência, valores éticos e morais, resiliência e atenção aos detalhes para desenvolver todas as minhas atividades.
 
 ## 💻 Conhecimentos | Habilidades 💻
-* Desenvolvimento : Python, Java, HTML, CSS.
+* Desenvolvimento: Python, Java, HTML, CSS, PHP, JavaScript.
 * Metodologia ágil: Scrum, Kanban, Scrumban, Jira.
-* Banco de dados: Firebase.
+* Banco de dados: Firebase, MySQL.
 * Versionamento: Git, GitHub, Jenkins.
 * Pacote Office: Excel, Power Point, Word.
 * Sistemas Operacionais: Windows.
 * Servidor local: XAMPP
-* Idiomas: Português, Inglês, Espanhol.
+* Idiomas: Português, Inglês.
 * Outros: Visual Studio Code, Notepad ++, WordPress, Putty, Filezilla.
 
 ## 🔍 Interesses 🔎
