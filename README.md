@@ -16,23 +16,12 @@
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Ramon-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Ramon-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Ramon-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="Ramon-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="Ramon-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
-  <img align="center" alt="Ramon-JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="Ramon-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-</div>  
-<div style="display: inline_block"><br>
   <img align="center" alt="Ramon-GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
-  <img align="center" alt="Ramon-Jenkins" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg">
-  <img align="center" alt="Ramon-Jira" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg">
-  <img align="center" alt="Ramon-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="Ramon-FileZilla" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg">
   <img align="center" alt="Ramon-Putty" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg">
   <img align="center" alt="Ramon-firebase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg">
-</div>  
-<div style="display: inline_block"><br>
   <img align="center" alt="Ramon-WordPress" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg">
   <img align="center" alt="Ramon-Windows" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
   <img align="right" alt="Ramon-Neo" height="150" style="border-radius:50px;" src="https://i.giphy.com/media/MC6eSuC3yypCU/giphy.webp?width=676&height=676">
@@ -83,10 +72,9 @@
 - Sempre utilizo a educação, respeito, empatia, transparência, valores éticos e morais, resiliência e atenção aos detalhes para desenvolver todas as minhas atividades.
 
 ## 💻 Conhecimentos | Habilidades 💻
-* Desenvolvimento: Python, Java, HTML, CSS, PHP, JavaScript.
-* Metodologia ágil: Scrum, Kanban, Scrumban, Jira.
-* Banco de dados: Firebase, MySQL.
-* Versionamento: Git, GitHub, Jenkins.
+* Desenvolvimento: Python, Java.
+* Banco de dados: Firebase.
+* Versionamento: Git, GitHub.
 * Pacote Office: Excel, Power Point, Word.
 * Sistemas Operacionais: Windows.
 * Servidor local: XAMPP
