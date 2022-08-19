@@ -19,10 +19,7 @@
   <img align="center" alt="Ramon-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Ramon-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="Ramon-GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
-  <img align="center" alt="Ramon-FileZilla" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg">
-  <img align="center" alt="Ramon-Putty" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg">
   <img align="center" alt="Ramon-firebase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg">
-  <img align="center" alt="Ramon-WordPress" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg">
   <img align="center" alt="Ramon-Windows" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
   <img align="right" alt="Ramon-Neo" height="150" style="border-radius:50px;" src="https://i.giphy.com/media/MC6eSuC3yypCU/giphy.webp?width=676&height=676">
 </div>
@@ -77,9 +74,8 @@
 * Versionamento: Git, GitHub.
 * Pacote Office: Excel, Power Point, Word.
 * Sistemas Operacionais: Windows.
-* Servidor local: XAMPP
 * Idiomas: Português, Inglês.
-* Outros: Visual Studio Code, Notepad ++, WordPress, Putty, Filezilla.
+* Outros: Visual Studio Code, Notepad ++.
 
 ## 🔍 Interesses 🔎
 * Analista de Sistemas 
