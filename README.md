@@ -3,8 +3,7 @@
 </div>
 
 <div align="center"> 
-  <b><h1>[ Analista de Sistemas | Desenvolvedor | DevOps ] 🏅</h1></b>
-  <b><h1>[ Engenheiro de Software | Full Stack | Programador ] 🎖️</h1></b>
+  <b><h1>[ Analista de Sistemas | BI | Cloud | Data Analytics | Data Engineer | Data Science | Desenvolvedor | DevOps | DevSecOps | BizDevOps | Engenheiro de Software | Full Stack | Programador ]🎖️🏅</h1></b>
 </div>  
 
 <div align="center">
@@ -74,12 +73,5 @@
 * Versionamento: Git, GitHub.
 * Pacote Office: Excel, Power Point, Word.
 * Sistemas Operacionais: Windows.
-* Idiomas: Português, Inglês.
+* Idiomas: Português, Inglês, Espanhol.
 * Outros: Visual Studio Code, Notepad ++.
-
-## 🔍 Interesses 🔎
-* Analista de Sistemas 
-* Desenvolvedor  
-* Engenheiro de Software 
-* Full Stack
-* Programador
