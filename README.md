@@ -3,7 +3,7 @@
 </div>
 
 <div align="center"> 
-  <b><h1>[ Analista de Sistemas | Analista de Dados | BI | BizDevOps | Cientista de Dados | Cloud | Desenvolvedor | DevOps | Engenheiro de Dados | Engenheiro de Software | Full Stack | Programador ]🎖️🏅</h1></b>
+  <b><h1>[ Analista de Dados | Cientista de Dados | Engenheiro de Dados ]🎖️🏅</h1></b>
 </div>  
 
 <div align="center">
