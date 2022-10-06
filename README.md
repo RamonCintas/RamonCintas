@@ -57,10 +57,6 @@
   <b><h1>👨‍🎓 Perfil 👨‍🎓</h1></b>
 </div>
 
-<div>
-  <img align="right" alt="Ramon-pic" height="150" style="border-radius:50px;" src="https://i.giphy.com/media/uvoECTG2uCTrG/giphy.webp?width=676&height=676">
-</div>
-
 ## 👨‍💻 Sobre mim 👨‍💻 
 - Tenho facilidade em manter um bom relacionamento interpessoal e a capacidade de adaptar-me a normas e procedimentos, e também desenvolver o trabalho em equipe, boa comunicação de forma clara e concisa, proativo para identificar as prioridades da empresa. 
 - Estou sempre buscando aprimoramento profissional e pessoal para evoluir nas mais diversas áreas de conhecimento para encontrar e / ou desenvolver soluções criativas para problemas complexos de curto e longo prazo. 
