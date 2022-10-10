@@ -1,5 +1,5 @@
 <div align="center"> 
-  <b><h1>Ramon Cintas 🏆</h1></b>
+  <b><h1>Ramon Cintas Gomes 🏆</h1></b>
 </div>
 
 <div align="center"> 
