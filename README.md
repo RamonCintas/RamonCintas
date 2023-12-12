@@ -1,3 +1,11 @@
+<div align="right">
+  
+  [![English](https://flagsapi.com/US/flat/32.png)](README.md)
+  [![Portuguese](https://flagsapi.com/BR/flat/32.png)](README_pt-BR.md)
+  [![Spanish](https://flagsapi.com/ES/flat/32.png)](README_es.md)
+  
+</div>
+
 <h1 align="center">Hello World, I'm Ramon Cintas Gomes 👋</h1>
 
 <div align="center">
@@ -227,7 +235,7 @@ IDEs:
 <table>
 	<thead>
 		<tr>
-			<th colspan="2" width="2000">&nbsp;</th>
+			<th colspan="2" width="2000">📘 My Top Open Source Projects</th>
 		</tr>
 	</thead>
 	<tbody>
@@ -281,13 +289,7 @@ IDEs:
 </details>
 
 
-<div align="right">
-  
-  [![English](https://flagsapi.com/US/flat/32.png)](README.md)
-  [![Portuguese](https://flagsapi.com/BR/flat/32.png)](README_pt-BR.md)
-  [![Spanish](https://flagsapi.com/ES/flat/32.png)](README_es.md)
-  
-</div>
+
 
 
 
