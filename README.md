@@ -24,7 +24,7 @@
 
 ### 🎯 Fluent in programming languages and business language
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&size=35&pause=1000&color=16F4F8&center=true&vCenter=true&random=false&width=1000&lines=Hello+World!+I+am+Ramon+Cintas;Full-stack+web+and+app+developer;Experienced+UI/UX+Designer;Always+learning+new+things;Graduating+from+the+ADS+course;Studying+at+Fatec+at+night;I'm+in+the+5th+semester;Available+for+interviews;I+am+available+for+contact;Welcome+to+my+portfolio)](https://www.linkedin.com/in/ramon-cg/)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&size=35&pause=1000&color=00FF04FF&center=true&vCenter=true&random=false&width=1000&lines=Hello+World!+I+am+Ramon+Cintas;Full-stack+web+and+app+developer;Experienced+UI/UX+Designer;Always+learning+new+things;Graduating+from+the+ADS+course;Studying+at+Fatec+at+night;I'm+in+the+5th+semester;Available+for+interviews;I+am+available+for+contact;Welcome+to+my+portfolio)](https://www.linkedin.com/in/ramon-cg/)
 
 ---
 
