@@ -50,7 +50,7 @@
 ---
 
 <details> 
-  <summary><h2>🛠️ Tech Stack and Technology tools</h2></summary>
+  <summary><h2>🛠️ Tech Stack and Tools</h2></summary>
   <h3>👨‍💻 Programming and Markup Languages</h3>
   <p>
 	<img alt="css3" src="https://img.shields.io/badge/CSS-E7ECEB?style=for-the-badge&logo=css3&logoColor=%231572B6">&nbsp;
