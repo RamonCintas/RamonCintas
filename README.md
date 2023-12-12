@@ -109,7 +109,7 @@
 	<tbody>
 		<tr>
 			<td align="center" valign="top" width="80"><br />
-				<a href="https://github.com/felipeAguiarCode/angular-playground">
+				<a href="https://github.com/RamonCintas">
 			      		<img src="https://github.com/RamonCintas/RamonCintas/blob/main/assets/findpets-logo.png" />
 			      	</a>
 		      	</td>
