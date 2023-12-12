@@ -36,15 +36,16 @@
 			<img src="https://streak-stats.demolab.com/?user=RamonCintas&theme=gruvbox&hide_border=true"/>
 		</p>
 	</div>
-  <h3>💻 GitHub Profile Stats</h3>
+  <h3>🖥️ GitHub Profile Stats</h3>
 	<div align="center"> 
-	  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=RamonCintas&show_icons=true&include_all_commits=true&count_private=true&theme=gruvbox&hide_border=true" height="192px"/></a>
-	  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=RamonCintas&langs_count=8&layout=compact&theme=gruvbox&hide_border=true&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
-		
-<br><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.<br>
-	  
-<img  src="https://github-readme-activity-graph.vercel.app/graph/?username=RamonCintas&bg_color=1F222E&color=F8D866&line=16F4F8FF&point=FFFFFF&hide_border=true" /></a>
+		<img src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=RamonCintas&show_icons=true&include_all_commits=true&count_private=true&theme=gruvbox&hide_border=true" height="192px"/></a>
+	  	<img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=RamonCintas&langs_count=8&layout=compact&theme=gruvbox&hide_border=true&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+		<br><br><img  src="https://github-readme-activity-graph.vercel.app/graph/?username=RamonCintas&bg_color=1F222E&color=F8D866&line=16F4F8FF&point=FFFFFF&hide_border=true" /></a>
 	</div>
+	<div align="justify">
+		<br><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.<br>
+	</div>
+	
 </details>
 
 ---
