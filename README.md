@@ -2,7 +2,6 @@
 	
   [![English](https://flagsapi.com/US/flat/32.png)](README.md)
   [![Portuguese](https://flagsapi.com/BR/flat/32.png)](README_pt-BR.md)
-  [![Spanish](https://flagsapi.com/ES/flat/32.png)](README_es.md)
   
 </div>
 
