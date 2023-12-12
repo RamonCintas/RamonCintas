@@ -1,47 +1,148 @@
 <div align="right">
-  
+	
   [![English](https://flagsapi.com/US/flat/32.png)](README.md)
   [![Portuguese](https://flagsapi.com/BR/flat/32.png)](README_pt-BR.md)
-  [![Spanish](https://flagsapi.com/ES/flat/32.png)](README_es.md)
   
 </div>
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Oi! Bem-vindo ao meu perfil
+<h1 align="center">Hello World, I'm Ramon Cintas Gomes 👋</h1>
 
-<p>
-Tenho 28 anos, trabalho como Desevolvedor Pleno na Develcode tendo como principal cliente a Leroy Merlin. Estou focado nos estudos das linguagens para desenvolvimento web mais atuais com o objetivo de me tornar full-stack com especialidade no front-end.
-</p>
+<div align="center">
+	<img height="320em" src="https://github.com/RamonCintas/RamonCintas/blob/main/assets/programador.gif"/>
+</div>
 
-<details>
-<p>
-Possuo experiência no mercado industrial como operador de máquinas sendo responsável pela programação do corte de peças no início da linha de produção de quase 100 pessoas.
-</p>
+<h3 align="center">Programmer • Developer • Analyst • Architect • Software Engineer • Full Stack • DevOps • Agile</h3>
 
-<p>
-Também atuei com automação, já tendo desenvolvido um produto patentiado, automatizando um processo da confecção de máquinas de costura industriais acionando cortes para separação de peças em 0.7 milésimos de segundos com programação embarcada em C e C++, aumentando a produção e evitando desperdíco de materiais.
-</p>
+<div align="center"> 
+	<a href="https://github.com/RamonCintas" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+	<a href = "mailto:ramoncg.oficial2018@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+	<a href="https://www.linkedin.com/in/ramon-cg/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+
+---
+
+### 🎯 Fluent in programming languages and business language
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&size=35&pause=1000&color=00FF04FF&center=true&vCenter=true&random=false&width=1000&lines=Hello+World!+I+am+Ramon+Cintas;Full-stack+web+and+app+developer;Experienced+UI/UX+Designer;Always+learning+new+things;Graduating+from+the+ADS+course;Studying+at+Fatec+at+night;I'm+in+the+5th+semester;Available+for+interviews;I+am+available+for+contact;Welcome+to+my+portfolio)](https://www.linkedin.com/in/ramon-cg/)
+
+---
+
+<details> 
+  <summary><h2>📊 Stats and Activity</h2></summary>
+  <h3>🔥 Streak Stats</h3>
+	<div align="center"> 
+		<p>
+			<img src="https://streak-stats.demolab.com/?user=RamonCintas&theme=gruvbox&hide_border=true"/>
+		</p>
+	</div>
+  <h3>🖥️ GitHub Profile Stats</h3>
+	<div align="center"> 
+		<img src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=RamonCintas&show_icons=true&include_all_commits=true&count_private=true&theme=gruvbox&hide_border=true" height="192px"/></a>
+	  	<img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=RamonCintas&langs_count=8&layout=compact&theme=gruvbox&hide_border=true&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+		<br><br><img  src="https://github-readme-activity-graph.vercel.app/graph/?username=RamonCintas&bg_color=1F222E&color=F8D866&line=16F4F8FF&point=FFFFFF&hide_border=true" /></a>
+	</div>
+	<div align="justify">
+		<br><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.<br>
+	</div>
+	
+</details>
+
+---
+
+<details> 
+  <summary><h2>🛠️ Tech Stack and Tools</h2></summary>
+  <h3>👨‍💻 Programming and Markup Languages</h3>
+  <p>
+	<img alt="css3" src="https://img.shields.io/badge/CSS-E7ECEB?style=for-the-badge&logo=css3&logoColor=%231572B6">&nbsp;
+	<img alt="html5" src="https://img.shields.io/badge/html-E7ECEB?style=for-the-badge&logo=html5&logoColor=%23E34F26">&nbsp;
+	<img alt="java" src="https://img.shields.io/badge/java-E7ECEB?style=for-the-badge&logo=java&logoColor=%23E34F26">&nbsp;
+	<img alt="javascript" src="https://img.shields.io/badge/javascript-E7ECEB?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">&nbsp;
+	<img alt="node.js" src="https://img.shields.io/badge/Node.js-E7ECEB?style=for-the-badge&logo=node.js&logoColor=53D9A2">&nbsp;
+	<img alt="php" src="https://img.shields.io/badge/php-E7ECEB?style=for-the-badge&logo=php&logoColor=%23777BB4">&nbsp;
+	<img alt="python" src="https://img.shields.io/badge/python-E7ECEB?style=for-the-badge&logo=python&logoColor=%233776AB">&nbsp;
+	<img alt="MIPS Assembly" src="https://img.shields.io/badge/Node.js-E7ECEB?style=for-the-badge&logo=node.js&logoColor=53D9A2">&nbsp;
+	<img alt="MIPS Assembly" src="https://img.shields.io/badge/Node.js-E7ECEB?style=for-the-badge&logo=node.js&logoColor=53D9A2">&nbsp;
+	<img alt="MIPS Assembly" src="https://img.shields.io/badge/Node.js-E7ECEB?style=for-the-badge&logo=node.js&logoColor=53D9A2">&nbsp;
+  </p>
+
+  <h3>🧰 Frameworks and Libraries</h3>
+  <p>
+	<img alt="MIPS Assembly" src="https://img.shields.io/badge/Node.js-E7ECEB?style=for-the-badge&logo=node.js&logoColor=53D9A2">&nbsp;
+	<img alt="MIPS Assembly" src="https://img.shields.io/badge/Node.js-E7ECEB?style=for-the-badge&logo=node.js&logoColor=53D9A2">&nbsp;
+	<img alt="MIPS Assembly" src="https://img.shields.io/badge/Node.js-E7ECEB?style=for-the-badge&logo=node.js&logoColor=53D9A2">&nbsp;
+	<img alt="MIPS Assembly" src="https://img.shields.io/badge/Node.js-E7ECEB?style=for-the-badge&logo=node.js&logoColor=53D9A2">&nbsp;
+	<img alt="MIPS Assembly" src="https://img.shields.io/badge/Node.js-E7ECEB?style=for-the-badge&logo=node.js&logoColor=53D9A2">&nbsp;
+  </p>
+
+  <h3>🗄️ Databases and Cloud Hosting</h3>
+  <p>
+	<img alt="MIPS Assembly" src="https://img.shields.io/badge/Node.js-E7ECEB?style=for-the-badge&logo=node.js&logoColor=53D9A2">&nbsp;
+	<img alt="MIPS Assembly" src="https://img.shields.io/badge/Node.js-E7ECEB?style=for-the-badge&logo=node.js&logoColor=53D9A2">&nbsp;
+	<img alt="MIPS Assembly" src="https://img.shields.io/badge/Node.js-E7ECEB?style=for-the-badge&logo=node.js&logoColor=53D9A2">&nbsp;
+	<img alt="MIPS Assembly" src="https://img.shields.io/badge/Node.js-E7ECEB?style=for-the-badge&logo=node.js&logoColor=53D9A2">&nbsp;
+	<img alt="MIPS Assembly" src="https://img.shields.io/badge/Node.js-E7ECEB?style=for-the-badge&logo=node.js&logoColor=53D9A2">&nbsp;
+	<img alt="MIPS Assembly" src="https://img.shields.io/badge/Node.js-E7ECEB?style=for-the-badge&logo=node.js&logoColor=53D9A2">&nbsp;
+	<img alt="MIPS Assembly" src="https://img.shields.io/badge/Node.js-E7ECEB?style=for-the-badge&logo=node.js&logoColor=53D9A2">&nbsp;
+	<img alt="MIPS Assembly" src="https://img.shields.io/badge/Node.js-E7ECEB?style=for-the-badge&logo=node.js&logoColor=53D9A2">&nbsp;
+  </p>
+
+  <h3>💻 Software and Tools</h3>
+  <p>
+	<img alt="MIPS Assembly" src="https://img.shields.io/badge/Node.js-E7ECEB?style=for-the-badge&logo=node.js&logoColor=53D9A2">&nbsp;
+	<img alt="MIPS Assembly" src="https://img.shields.io/badge/Node.js-E7ECEB?style=for-the-badge&logo=node.js&logoColor=53D9A2">&nbsp;
+	<img alt="MIPS Assembly" src="https://img.shields.io/badge/Node.js-E7ECEB?style=for-the-badge&logo=node.js&logoColor=53D9A2">&nbsp;
+	<img alt="MIPS Assembly" src="https://img.shields.io/badge/Node.js-E7ECEB?style=for-the-badge&logo=node.js&logoColor=53D9A2">&nbsp;
+	<img alt="MIPS Assembly" src="https://img.shields.io/badge/Node.js-E7ECEB?style=for-the-badge&logo=node.js&logoColor=53D9A2">&nbsp;
+	<img alt="MIPS Assembly" src="https://img.shields.io/badge/Node.js-E7ECEB?style=for-the-badge&logo=node.js&logoColor=53D9A2">&nbsp;
+  </p>
 
 </details>
 
-## 📌 Habilidades
+---
 
-![HTML5 badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3 badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-[![SASS badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://sass-lang.com/)
-[![JavaScript badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
-[![React badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org)
-[![React Router badge](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)](https://reactrouter.com/en/main)
-[![TypeScript badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![Redux badge](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)](https://redux.js.org/)
-[![Markdown badge](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)](https://www.markdownguide.org/)
-[![MySQL badge](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![Firebase badge](https://img.shields.io/badge/Firebase-F29D0C?style=for-the-badge&logo=firebase&logoColor=white)](https://firebase.google.com/)
-[![Vault badge](https://img.shields.io/badge/Vault-FFFFFF?style=for-the-badge&logo=vault&logoColor=black)](https://www.hashicorp.com/products/vault)
-[![GIT badge](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+<table>
+	<thead>
+		<tr>
+			<th colspan="2" width="2000"><h2>📘 Top Open Source Projects</h2></th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td align="center" valign="top" width="80"><br />
+				<a href="https://github.com/RamonCintas">
+			      		<img src="https://github.com/RamonCintas/RamonCintas/blob/main/assets/findpets-logo.png" />
+			      	</a>
+		      	</td>
+			<td valign="top">
+				<h3>Find Pets Mobile e Web</h3>
+				<p>projeto integrador.</p>
+				<a href="https://github.com/RamonCintas">
+ 			 		<img src="https://img.shields.io/badge/ver%20projeto-E7ECEB?style=for-the-badge&logo=phoenixframework&logoColor=%23FD4F00" alt="Ver projeto">
+				</a>
+			</td>
+		</tr>
+  		<tr>
+			<td align="center" valign="top" width="80"><br />
+				<a href="https://github.com/RamonCintas">
+			      		<img src="https://github.com/RamonCintas/RamonCintas/blob/main/assets/crud-logo.png" />
+			      	</a>
+		      	</td>
+			<td valign="top">
+				<h3>API CRUD Spring Boot + Angualr</h3>
+				<p>projeto interdisciplinar.</p>
+				<a href="https://github.com/RamonCintas">
+ 			 		<img src="https://img.shields.io/badge/ver%20projeto-E7ECEB?style=for-the-badge&logo=phoenixframework&logoColor=%23FD4F00" alt="Ver projeto">
+				</a>
+			</td>
+		</tr>
+	</tbody>
+</table>
 
-## 📚 Estudando
+---
 
-[![Tailwind CSS badge](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
-[![NextJS badge](https://img.shields.io/badge/-NextJS-333333?style=for-the-badge&logo=next.js&logoColor=white)]([https://nodejs.org/en/](https://nextjs.org/))
-[![ReactNative badge](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactnative.dev)
-[![Node.js badge](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en/)
+<br>
+<div align="center">
+  <h3 align="centre"><b>Visits received on the profile</b></p>  
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{RamonCintas}/count.svg" /></p> 
+</div>
+<br>
