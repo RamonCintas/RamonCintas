@@ -144,7 +144,7 @@
 
 <br>
 <div align="center">
-  <h3 align="centre"><b>Visits received on the profile</b></p>  
+  <h3 align="centre"><b>Visits received on this profile</b></p>  
   <p align="center"><img align="center" src="https://profile-counter.glitch.me/{RamonCintas}/count.svg" /></p> 
 </div>
 <br>
