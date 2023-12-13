@@ -105,7 +105,7 @@
 <table>
 	<thead>
 		<tr>
-			<th colspan="2" width="2000"><h2>📘 Top Projects</h2></th>
+			<th colspan="2" width="2000"><h2>📘 Private Source Projects</h2></th>
 		</tr>
 	</thead>
 	<tbody>
