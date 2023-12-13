@@ -28,7 +28,7 @@
 ---
 
 <details> 
-  <summary><h2>📊 Stats and Activity</h2></summary>
+  <summary><h2>📊 Activity Stats</h2></summary>
   <h3>🔥 Streak Stats</h3>
 	<div align="center"> 
 		<p>
@@ -50,7 +50,7 @@
 ---
 
 <details>
-  <summary><h2>🛠️ Tech Stack and Tools</h2></summary>
+  <summary><h2>🛠️ Tech Stack</h2></summary>
   <h3>👨‍💻 Programming and Markup Languages</h3>
   <p>
 	<img alt="css3" src="https://img.shields.io/badge/CSS-E7ECEB?style=for-the-badge&logo=css3&logoColor=%231572B6">&nbsp;
@@ -105,7 +105,7 @@
 <table>
 	<thead>
 		<tr>
-			<th colspan="2" width="2000"><h2>📘 Top Open Source Projects</h2></th>
+			<th colspan="2" width="2000"><h2>📘 Top Projects</h2></th>
 		</tr>
 	</thead>
 	<tbody>
