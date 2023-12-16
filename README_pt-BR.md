@@ -5,13 +5,13 @@
   
 </div>
 
-<h1 align="center">Hello World, I'm Ramon Cintas Gomes 👋</h1>
+<h1 align="center">Olá mundo, meu nome é Ramon Cintas Gomes 👋</h1>
 
 <div align="center">
 	<img height="320em" src="https://github.com/RamonCintas/RamonCintas/blob/main/assets/programador.gif"/>
 </div>
 
-<h3 align="center">Programmer • Developer • Analyst • Architect • Software Engineer • Full Stack • DevOps • Agile</h3>
+<h3 align="center">Programador • Desenvolvedor • Analista • Arquiteto • Engenheiro de Software • Full Stack • DevOps • Ágil</h3>
 
 <div align="center"> 
 	<a href="https://github.com/RamonCintas" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
@@ -21,21 +21,21 @@
 
 ---
 
-### 🎯 Fluent in programming languages and business language
+### 🎯 Fluente em linguagens de programação e linguagem de negócios
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&size=35&pause=1000&color=00FF04FF&center=true&vCenter=true&random=false&width=1000&lines=Hello+World!+I+am+Ramon+Cintas;Full-stack+web+and+app+developer;Experienced+UI/UX+Designer;Always+learning+new+things;Graduating+from+the+ADS+course;Studying+at+Fatec+at+night;I'm+in+the+5th+semester;Available+for+interviews;I+am+available+for+contact;Welcome+to+my+portfolio)](https://www.linkedin.com/in/ramon-cg/)
 
 ---
 
 <details> 
-  <summary><h2>📊 Stats and Activity</h2></summary>
+  <summary><h2>📊 Estatísticas e atividades</h2></summary>
   <h3>🔥 Streak Stats</h3>
 	<div align="center"> 
 		<p>
 			<img src="https://streak-stats.demolab.com/?user=RamonCintas&theme=gruvbox&hide_border=true"/>
 		</p>
 	</div>
-  <h3>🖥️ GitHub Profile Stats</h3>
+  <h3>🖥️ Estatísticas de perfil do GitHub</h3>
 	<div align="center"> 
 		<img src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=RamonCintas&show_icons=true&include_all_commits=true&count_private=true&theme=gruvbox&hide_border=true" height="192px"/></a>
 	  	<img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=RamonCintas&langs_count=8&layout=compact&theme=gruvbox&hide_border=true&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
