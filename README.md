@@ -53,6 +53,8 @@
   <summary><h2>🛠️ Tech Stack</h2></summary>
   <h3>👨‍💻 Programming and Markup Languages</h3>
   <p>
+	<img alt="java" src="https://img.shields.io/badge/java-E7ECEB?style=for-the-badge&logo=java&logoColor=%23E34F26">&nbsp;
+	<img alt="sql" src="https://img.shields.io/badge/sql-E7ECEB?style=for-the-badge&logo=sql&logoColor=%233776AB">&nbsp;
 	<img alt="css3" src="https://img.shields.io/badge/CSS-E7ECEB?style=for-the-badge&logo=css3&logoColor=%231572B6">&nbsp;
 	<img alt="html5" src="https://img.shields.io/badge/html-E7ECEB?style=for-the-badge&logo=html5&logoColor=%23E34F26">&nbsp;
 	<img alt="javascript" src="https://img.shields.io/badge/javascript-E7ECEB?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">&nbsp;
@@ -60,8 +62,8 @@
 	<img alt="php" src="https://img.shields.io/badge/php-E7ECEB?style=for-the-badge&logo=php&logoColor=%23777BB4">&nbsp;
 	<img alt="python" src="https://img.shields.io/badge/python-E7ECEB?style=for-the-badge&logo=python&logoColor=%233776AB">&nbsp;
 	<img alt="typescript" src="https://img.shields.io/badge/typescript-E7ECEB?style=for-the-badge&logo=typescript&logoColor=%233178C6">&nbsp;
-	<img alt="java" src="https://img.shields.io/badge/java-E7ECEB?style=for-the-badge&logo=java&logoColor=%23E34F26">&nbsp;
-	<img alt="sql" src="https://img.shields.io/badge/sql-E7ECEB?style=for-the-badge&logo=sql&logoColor=%233776AB">&nbsp;
+	<img alt="go" src="https://img.shields.io/badge/Go-E7ECEB?style=for-the-badge&logo=Go&logoColor=%2300ADD8">&nbsp;
+	<img alt="kotlin" src="https://img.shields.io/badge/Kotlin-E7ECEB?style=for-the-badge&logo=Kotlin&logoColor=%237F52FF">&nbsp;
   </p>
 
   <h3>🧰 Frameworks and Libraries</h3>
@@ -76,6 +78,7 @@
 
   <h3>🗄️ Databases and Cloud Hosting</h3>
   <p>
+	<img alt="heidisql" src="https://img.shields.io/badge/heidisql-E7ECEB?style=for-the-badge&logo=heidisql&logoColor=%23CC2927">&nbsp;
 	<img alt="github pages" src="https://img.shields.io/badge/github%20pages-E7ECEB?style=for-the-badge&logo=github%20pages&logoColor=%23222222">&nbsp;
 	<img alt="mysql" src="https://img.shields.io/badge/mysql-E7ECEB?style=for-the-badge&logo=mysql&logoColor=%234479A1">&nbsp;
 	<img alt="sqlite" src="https://img.shields.io/badge/sqlite-E7ECEB?style=for-the-badge&logo=sqlite&logoColor=%23003B57">&nbsp;
@@ -83,11 +86,11 @@
 	<img alt="firebase" src="https://img.shields.io/badge/firebase-E7ECEB?style=for-the-badge&logo=firebase&logoColor=%23FFCA28">&nbsp;
 	<img alt="google cloud" src="https://img.shields.io/badge/google%20cloud-E7ECEB?style=for-the-badge&logo=google%20cloud&logoColor=%234285F4">&nbsp;
 	<img alt="microsoft azure" src="https://img.shields.io/badge/microsoft%20azure-E7ECEB?style=for-the-badge&logo=microsoft%20azure&logoColor=%230078D4">&nbsp;
-	<img alt="heidisql" src="https://img.shields.io/badge/heidisql-E7ECEB?style=for-the-badge&logo=heidisql&logoColor=%23CC2927">&nbsp;
   </p>
 
   <h3>💻 Software and Tools</h3>
   <p>
+	<img alt="github desktop" src="https://img.shields.io/badge/github%20desktop-E7ECEB?style=for-the-badge&logo=github%20desktop&logoColor=%235865F2">&nbsp;
 	<img alt="visual studio code" src="https://img.shields.io/badge/visual%20studio%20code-E7ECEB?style=for-the-badge&logo=visual%20studio%20code&logoColor=%23007ACC">&nbsp;
 	<img alt="android studio" src="https://img.shields.io/badge/android%20studio-E7ECEB?style=for-the-badge&logo=android%20studio&logoColor=%233DDC84">&nbsp;
 	<img alt="discord" src="https://img.shields.io/badge/discord-E7ECEB?style=for-the-badge&logo=discord&logoColor=%235865F2">&nbsp;
@@ -95,7 +98,8 @@
 	<img alt="insomnia" src="https://img.shields.io/badge/insomnia-E7ECEB?style=for-the-badge&logo=insomnia&logoColor=%234000BF">&nbsp;
 	<img alt="apache maven" src="https://img.shields.io/badge/apache%20maven-E7ECEB?style=for-the-badge&logo=apache%20maven&logoColor=%23C71A36">&nbsp;
 	<img alt="npm" src="https://img.shields.io/badge/npm-E7ECEB?style=for-the-badge&logo=npm&logoColor=%23CB3837">&nbsp;
-	<img alt="github desktop" src="https://img.shields.io/badge/github%20desktop-E7ECEB?style=for-the-badge&logo=github%20desktop&logoColor=%235865F2">&nbsp;
+	<img alt="canva" src="https://img.shields.io/badge/Canva-E7ECEB?style=for-the-badge&logo=Canva&logoColor=%2300C4CC">&nbsp;
+ 	<img alt="figma" src="https://img.shields.io/badge/Figma-E7ECEB?style=for-the-badge&logo=Figma&logoColor=%23F24E1E">&nbsp;
   </p>
 
 </details>
