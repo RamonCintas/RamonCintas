@@ -53,8 +53,8 @@
   <summary><h2>🛠️ Tech Stack</h2></summary>
   <h3>👨‍💻 Programming and Markup Languages</h3>
   <p>
-	<img alt="java" src="https://img.shields.io/badge/java-E7ECEB?style=for-the-badge&logo=java&logoColor=%23E34F26">&nbsp;
-	<img alt="sql" src="https://img.shields.io/badge/sql-E7ECEB?style=for-the-badge&logo=sql&logoColor=%233776AB">&nbsp;
+	<img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-E7ECEB?style=for-the-badge&logo=java&logoColor=%23E34F26">&nbsp;
+	<img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-E7ECEB?style=for-the-badge&logo=sql&logoColor=blue">&nbsp;
 	<img alt="css3" src="https://img.shields.io/badge/CSS-E7ECEB?style=for-the-badge&logo=css3&logoColor=%231572B6">&nbsp;
 	<img alt="html5" src="https://img.shields.io/badge/html-E7ECEB?style=for-the-badge&logo=html5&logoColor=%23E34F26">&nbsp;
 	<img alt="javascript" src="https://img.shields.io/badge/javascript-E7ECEB?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">&nbsp;
@@ -74,6 +74,8 @@
 	<img alt="numpy" src="https://img.shields.io/badge/numpy-E7ECEB?style=for-the-badge&logo=numpy&logoColor=%23013243">&nbsp;
 	<img alt="pandas" src="https://img.shields.io/badge/pandas-E7ECEB?style=for-the-badge&logo=pandas&logoColor=%23150458">&nbsp;
 	<img alt="statistics" src="https://img.shields.io/badge/statistics-E7ECEB?style=for-the-badge&logo=statistic&logoColor=%23150458">&nbsp;
+	<img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-E7ECEB?style=for-the-badge&logo=github%20actions&logoColor=blue">&nbsp;
+      
   </p>
 
   <h3>🗄️ Databases and Cloud Hosting</h3>
@@ -90,7 +92,7 @@
 
   <h3>💻 Software and Tools</h3>
   <p>
-	<img alt="github desktop" src="https://img.shields.io/badge/github%20desktop-E7ECEB?style=for-the-badge&logo=github%20desktop&logoColor=%235865F2">&nbsp;
+	<img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-E7ECEB?style=for-the-badge&logo=github&logoColor=blue">&nbsp;
 	<img alt="visual studio code" src="https://img.shields.io/badge/visual%20studio%20code-E7ECEB?style=for-the-badge&logo=visual%20studio%20code&logoColor=%23007ACC">&nbsp;
 	<img alt="android studio" src="https://img.shields.io/badge/android%20studio-E7ECEB?style=for-the-badge&logo=android%20studio&logoColor=%233DDC84">&nbsp;
 	<img alt="discord" src="https://img.shields.io/badge/discord-E7ECEB?style=for-the-badge&logo=discord&logoColor=%235865F2">&nbsp;
@@ -100,6 +102,7 @@
 	<img alt="npm" src="https://img.shields.io/badge/npm-E7ECEB?style=for-the-badge&logo=npm&logoColor=%23CB3837">&nbsp;
 	<img alt="canva" src="https://img.shields.io/badge/Canva-E7ECEB?style=for-the-badge&logo=Canva&logoColor=%2300C4CC">&nbsp;
  	<img alt="figma" src="https://img.shields.io/badge/Figma-E7ECEB?style=for-the-badge&logo=Figma&logoColor=%23F24E1E">&nbsp;
+
   </p>
 
 </details>
