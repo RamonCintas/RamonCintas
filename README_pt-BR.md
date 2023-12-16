@@ -116,35 +116,35 @@
 	</thead>
 	<tbody>
 		<tr>
-			<td align="center" valign="top" width="80"><br />
+			<td align="center" valign="center" width="200" height="200"><br />
 				<a href="https://github.com/RamonCintas">
 			      		<img src="https://github.com/RamonCintas/RamonCintas/blob/main/assets/findpets-logo.png" />
 			      	</a>
 		      	</td>
 			<td valign="top">
 				<h3>Find Pets Mobile e Web</h3>
-				<p>projeto integrador.</p>
+				<p>Projeto para aprimorar os conhecimentos de programação desenvolvendo um site responsivo e hospedado com front-end e back-end para doação e adoção de cachorros e gatos.</p>
 				<a href="https://github.com/RamonCintas">
  			 		<img src="https://img.shields.io/badge/ver%20projeto-E7ECEB?style=for-the-badge&logo=phoenixframework&logoColor=%23FD4F00" alt="Ver projeto">
 				</a>
 			</td>
 		</tr>
   		<tr>
-			<td align="center" valign="top" width="80"><br />
+			<td align="center" valign="center" width="200" height="200"><br />
 				<a href="https://github.com/RamonCintas">
 			      		<img src="https://github.com/RamonCintas/RamonCintas/blob/main/assets/crud-logo.png" />
 			      	</a>
 		      	</td>
 			<td valign="top">
-				<h3>API CRUD Spring Boot + Angualr</h3>
-				<p>projeto interdisciplinar.</p>
+				<h3>API: Projeto CRUD Spring Boot + Angular</h3>
+				<p>Projeto para aprimorar os conhecimentos de programação construindo uma API com front-end e back-end para doações online</p>
 				<a href="https://github.com/RamonCintas">
  			 		<img src="https://img.shields.io/badge/ver%20projeto-E7ECEB?style=for-the-badge&logo=phoenixframework&logoColor=%23FD4F00" alt="Ver projeto">
 				</a>
 			</td>
 		</tr>
 		<tr>
-			<td align="center" valign="top" width="80"><br />
+			<td align="center" valign="center" width="200" height="200"><br />
 				<a href="https://github.com/RamonCintas">
 			      		<img src="https://github.com/RamonCintas/RamonCintas/blob/main/assets/bigdata.jpg" />
 			      	</a>
@@ -158,7 +158,7 @@
 			</td>
 		</tr>
 		<tr>
-			<td align="center" valign="top" width="80"><br />
+			<td align="center" valign="center" width="200" height="200"><br />
 				<a href="https://github.com/RamonCintas">
 			      		<img src="https://github.com/RamonCintas/RamonCintas/blob/main/assets/cyber.jpg" />
 			      	</a>
@@ -172,7 +172,7 @@
 			</td>
 		</tr>
 		<tr>
-			<td align="center" valign="top" width="80"><br />
+			<td align="center" valign="center" width="200" height="200"><br />
 				<a href="https://github.com/RamonCintas">
 			      		<img src="https://github.com/RamonCintas/RamonCintas/blob/main/assets/registros-saude.jpg" />
 			      	</a>
@@ -186,13 +186,13 @@
 			</td>
 		</tr>
 		<tr>
-			<td align="center" valign="top" width="80"><br />
+			<td align="center" valign="center" width="200" height="200"><br />
 				<a href="https://github.com/RamonCintasGomes">
 			      		<img src="https://github.com/RamonCintas/RamonCintas/blob/main/assets/organizacao.jpg" />
 			      	</a>
 		      	</td>
 			<td valign="top">
-				<h3>Organização</h3>
+				<h3>Projetos de código aberto: Organização Ramon Cintas Gomes</h3>
 				<p>Aqui estão todos os projetos de código aberto que não estão entre os projetos de código privado no repositório RamonCintas</p>
 				<a href="https://github.com/RamonCintas">
  			 		<img src="https://img.shields.io/badge/ver%20organização-E7ECEB?style=for-the-badge&logo=phoenixframework&logoColor=%23FD4F00" alt="Ver organização">
