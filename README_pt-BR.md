@@ -129,7 +129,7 @@
 				</a>
    				<div>
 				</div>
-				<a href="https://find-pets.infinityfreeapp.com/">
+				<a href="https://find-pets.infinityfreeapp.com/" target="_blank">
  			 		<img src="https://img.shields.io/badge/Ir%20para%20o%20site%20Find%20Pets-E7ECEB?style=for-the-badge&logo=phoenixframework&logoColor=%23FD4F00" alt="Ir para o site find pets">
 				</a>
 			</td>
@@ -192,14 +192,14 @@
 		</tr>
 		<tr>
 			<td align="center" valign="center" width="200" height="200"><br />
-				<a href="https://github.com/RamonCintasGomes">
+				<a href="https://github.com/RamonCintasGomes" target="_blank">
 			      		<img src="https://github.com/RamonCintas/RamonCintas/blob/main/assets/organizacao.jpg" />
 			      	</a>
 		      	</td>
 			<td valign="top">
 				<h3>Projetos de código aberto: Organização Ramon Cintas Gomes</h3>
 				<p>Aqui estão todos os projetos de código aberto que não estão entre os projetos de código privado no repositório RamonCintas.</p>
-				<a href="https://github.com/RamonCintas">
+				<a href="https://github.com/RamonCintasGomes" target="_blank">
  			 		<img src="https://img.shields.io/badge/Ir%20para%20a%20organização-E7ECEB?style=for-the-badge&logo=phoenixframework&logoColor=%23FD4F00" alt="Ver organização">
 				</a>
 			</td>
