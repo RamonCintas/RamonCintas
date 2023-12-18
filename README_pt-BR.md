@@ -111,7 +111,7 @@
 <table>
 	<thead>
 		<tr>
-			<th colspan="2" width="2000"><h2>📘 Principais projetos de código aberto</h2></th>
+			<th colspan="2" width="2000"><h2>📘 Projetos de código privado</h2></th>
 		</tr>
 	</thead>
 	<tbody>
@@ -142,7 +142,7 @@
 		      	</td>
 			<td valign="top">
 				<h3>API: Projeto CRUD Spring Boot + Angular</h3>
-				<p>Projeto para aprimorar os conhecimentos de programação construindo uma API com front-end e back-end para doações online</p>
+				<p>Projeto para aprimorar os conhecimentos de programação construindo uma API com front-end e back-end para doações online.</p>
 				<a href="https://github.com/RamonCintas">
  			 		<img src="https://img.shields.io/badge/ver%20projeto-E7ECEB?style=for-the-badge&logo=phoenixframework&logoColor=%23FD4F00" alt="Ver projeto">
 				</a>
@@ -169,8 +169,8 @@
 			      	</a>
 		      	</td>
 			<td valign="top">
-				<h3>Segurança da informação: Projeto Ransonware, Projeto Phising</h3>
-				<p>Projetos para aprimorar os conhecimentos de programação com o foco em segurança da informação</p>
+				<h3>Cibersegurança: Projeto Ransomware, Projeto Phishing</h3>
+				<p>Projetos para aprimorar os conhecimentos de programação com o foco em segurança da informação.</p>
 				<a href="https://github.com/RamonCintas">
  			 		<img src="https://img.shields.io/badge/ver%20projeto-E7ECEB?style=for-the-badge&logo=phoenixframework&logoColor=%23FD4F00" alt="Ver projeto">
 				</a>
@@ -184,7 +184,7 @@
 		      	</td>
 			<td valign="top">
 				<h3>Saúde: Projeto Registros de Saúde</h3>
-				<p>Projetos para aprimorar os conhecimentos de programação com o foco em saúde</p>
+				<p>Projetos para aprimorar os conhecimentos de programação com o foco em saúde.</p>
 				<a href="https://github.com/RamonCintas">
  			 		<img src="https://img.shields.io/badge/ver%20projeto-E7ECEB?style=for-the-badge&logo=phoenixframework&logoColor=%23FD4F00" alt="Ver projeto">
 				</a>
@@ -198,7 +198,7 @@
 		      	</td>
 			<td valign="top">
 				<h3>Projetos de código aberto: Organização Ramon Cintas Gomes</h3>
-				<p>Aqui estão todos os projetos de código aberto que não estão entre os projetos de código privado no repositório RamonCintas</p>
+				<p>Aqui estão todos os projetos de código aberto que não estão entre os projetos de código privado no repositório RamonCintas.</p>
 				<a href="https://github.com/RamonCintas">
  			 		<img src="https://img.shields.io/badge/Ir%20para%20a%20organização-E7ECEB?style=for-the-badge&logo=phoenixframework&logoColor=%23FD4F00" alt="Ver organização">
 				</a>
