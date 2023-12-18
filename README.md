@@ -119,7 +119,7 @@
 	<tbody>
 		<tr>
 			<td align="center" valign="center" width="200" height="200"><br />
-				<a href="https://github.com/RamonCintas">
+				<a href="https://github.com/RamonCintas" target="_blank">
 			      		<img src="https://github.com/RamonCintas/RamonCintas/blob/main/assets/findpets-logo.png" />
 			      	</a>
 		      	</td>
@@ -201,7 +201,7 @@
 			<td valign="top">
 				<h3>Open source projects: Ramon Cintas Gomes Organization</h3>
 				<p>Here are all the open source projects that are not among the private source projects in the RamonCintas repository</p>
-				<a href="https://github.com/RamonCintas">
+				<a href="https://github.com/RamonCintasGomes" target="_blank">
  			 		<img src="https://img.shields.io/badge/Go%20to%20organization-E7ECEB?style=for-the-badge&logo=phoenixframework&logoColor=%23FD4F00" alt="See organization">
 				</a>
 			</td>
