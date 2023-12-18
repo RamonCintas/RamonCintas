@@ -167,7 +167,7 @@
 		<tr>
 			<td align="center" valign="center" width="200" height="200"><br />
 				<a href="https://github.com/RamonCintas">
-			      		<img src="https://github.com/RamonCintas/RamonCintas/blob/main/assets/cyber.jpg" />
+			      		<img src="https://github.com/RamonCintas/RamonCintas/blob/main/assets/cybersecurity.jpg" />
 			      	</a>
 		      	</td>
 			<td valign="top">
