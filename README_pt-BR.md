@@ -23,7 +23,7 @@
 
 ### 🎯 Fluente em linguagens de programação e linguagem de negócios
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&size=35&pause=1000&color=00FF04FF&center=true&vCenter=true&random=false&width=1000&lines=Olá+Mundo!+Eu+sou+Ramon+Cintas;Desenvolvedor+full-stack+web+e+app+;Experiencia+com+UI/UX+Designer;Sempre+aprendendo+coisas+novas;Graduando+no+curso+ADS+;Estudando+na+Fatec+à+noite;Estou+no+5º+semestre;Disponível+para+entrevistas;Estou+disponível+para+contato;Welcome+to+my+portfolio)](https://www.linkedin.com/in/ramon-cg/)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&size=35&pause=1000&color=00FF04FF&center=true&vCenter=true&random=false&width=1000&lines=Olá+Mundo!+Eu+sou+Ramon+Cintas;Desenvolvedor+full-stack+web+e+app+;Experiencia+com+UI/UX+Designer;Sempre+aprendendo+coisas+novas;Graduando+no+curso+ADS+;Estudando+na+Fatec+à+noite;Estou+no+5º+semestre;Disponível+para+entrevistas;Estou+disponível+para+contato;Bem-vindo(a)+ao+meu+portfólio)](https://www.linkedin.com/in/ramon-cg/)
 
 
 ---
