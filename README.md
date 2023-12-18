@@ -144,7 +144,7 @@
 		      	</td>
 			<td valign="top">
 				<h3>API: Spring Boot + Angular CRUD Project</h3>
-				<p>Project to improve programming knowledge by building an API with front-end and back-end for online donations.</p>
+				<p>Project to improve programming knowledge by building an API (Application Programming Interface) with front-end and back-end for online donations.</p>
 				<a href="https://github.com/RamonCintas">
  			 		<img src="https://img.shields.io/badge/See%20project%20-E7ECEB?style=for-the-badge&logo=phoenixframework&logoColor=%23FD4F00" alt="See project">
 				</a>
