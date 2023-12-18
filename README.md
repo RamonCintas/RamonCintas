@@ -119,7 +119,7 @@
 	<tbody>
 		<tr>
 			<td align="center" valign="center" width="200" height="200"><br />
-				<a href="https://github.com/RamonCintas" target="_blank">
+				<a href="https://github.com/RamonCintas">
 			      		<img src="https://github.com/RamonCintas/RamonCintas/blob/main/assets/findpets-logo.png" />
 			      	</a>
 		      	</td>
@@ -131,7 +131,7 @@
 				</a>
    				<div>
 				</div>
-				<a href="https://find-pets.infinityfreeapp.com/">
+				<a href="https://find-pets.infinityfreeapp.com/" target="_blank">
  			 		<img src="https://img.shields.io/badge/Go%20to%20the%20find%20pets%20website-E7ECEB?style=for-the-badge&logo=phoenixframework&logoColor=%23FD4F00" alt="Go to the find pets website">
 				</a>
 			</td>
@@ -194,7 +194,7 @@
 		</tr>
 		<tr>
 			<td align="center" valign="center" width="200" height="200"><br />
-				<a href="https://github.com/RamonCintasGomes">
+				<a href="https://github.com/RamonCintasGomes" target="_blank" >
 			      		<img src="https://github.com/RamonCintas/RamonCintas/blob/main/assets/organizacao.jpg" />
 			      	</a>
 		      	</td>
