@@ -109,43 +109,106 @@
 
 ---
 
+
 <table>
 	<thead>
 		<tr>
-			<th colspan="2" width="2000"><h2>📘 Private Source Projects</h2></th>
+			<th colspan="2" width="2000"><h2>📘 Private source projects</h2></th>
 		</tr>
 	</thead>
 	<tbody>
 		<tr>
-			<td align="center" valign="top" width="80"><br />
+			<td align="center" valign="center" width="200" height="200"><br />
 				<a href="https://github.com/RamonCintas">
 			      		<img src="https://github.com/RamonCintas/RamonCintas/blob/main/assets/findpets-logo.png" />
 			      	</a>
 		      	</td>
 			<td valign="top">
-				<h3>Find Pets Mobile e Web</h3>
-				<p>projeto integrador.</p>
+				<h3>Find Pets Mobile and Web Project</h3>
+				<p>Project to improve programming knowledge by developing a responsive and hosted website with front-end and back-end for donating and adopting dogs and cats.</p>
 				<a href="https://github.com/RamonCintas">
- 			 		<img src="https://img.shields.io/badge/ver%20projeto-E7ECEB?style=for-the-badge&logo=phoenixframework&logoColor=%23FD4F00" alt="Ver projeto">
+ 			 		<img src="https://img.shields.io/badge/See%20project%20-E7ECEB?style=for-the-badge&logo=phoenixframework&logoColor=%23FD4F00" alt="See project">
+				</a>
+   				<div>
+				</div>
+				<a href="https://find-pets.infinityfreeapp.com/">
+ 			 		<img src="https://img.shields.io/badge/Go%20to%20the%20find%20pets%20website-E7ECEB?style=for-the-badge&logo=phoenixframework&logoColor=%23FD4F00" alt="Go to the find pets website">
 				</a>
 			</td>
 		</tr>
   		<tr>
-			<td align="center" valign="top" width="80"><br />
+			<td align="center" valign="center" width="200" height="200"><br />
 				<a href="https://github.com/RamonCintas">
 			      		<img src="https://github.com/RamonCintas/RamonCintas/blob/main/assets/crud-logo.png" />
 			      	</a>
 		      	</td>
 			<td valign="top">
-				<h3>API CRUD Spring Boot + Angualr</h3>
-				<p>projeto interdisciplinar.</p>
+				<h3>API: Spring Boot + Angular CRUD Project</h3>
+				<p>Project to improve programming knowledge by building an API with front-end and back-end for online donations.</p>
 				<a href="https://github.com/RamonCintas">
- 			 		<img src="https://img.shields.io/badge/ver%20projeto-E7ECEB?style=for-the-badge&logo=phoenixframework&logoColor=%23FD4F00" alt="Ver projeto">
+ 			 		<img src="https://img.shields.io/badge/See%20project%20-E7ECEB?style=for-the-badge&logo=phoenixframework&logoColor=%23FD4F00" alt="See project">
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<td align="center" valign="center" width="200" height="200"><br />
+				<a href="https://github.com/RamonCintas">
+			      		<img src="https://github.com/RamonCintas/RamonCintas/blob/main/assets/bigdata.jpg" />
+			      	</a>
+		      	</td>
+			<td valign="top">
+				<h3>Big Data: Pareto Analysis Project, Dispersion Measure Project</h3>
+				<p>Projects to improve programming knowledge with a focus on large volumes of data.</p>
+				<a href="https://github.com/RamonCintas">
+ 			 		<img src="https://img.shields.io/badge/See%20project%20-E7ECEB?style=for-the-badge&logo=phoenixframework&logoColor=%23FD4F00" alt="See project">
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<td align="center" valign="center" width="200" height="200"><br />
+				<a href="https://github.com/RamonCintas">
+			      		<img src="https://github.com/RamonCintas/RamonCintas/blob/main/assets/cyber.jpg" />
+			      	</a>
+		      	</td>
+			<td valign="top">
+				<h3>Cybersecurity: Ransomware Project, Phishing Project</h3>
+				<p>Projects to improve programming knowledge with a focus on cybersecurity.</p>
+				<a href="https://github.com/RamonCintas">
+ 			 		<img src="https://img.shields.io/badge/See%20project%20-E7ECEB?style=for-the-badge&logo=phoenixframework&logoColor=%23FD4F00" alt="See project">
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<td align="center" valign="center" width="200" height="200"><br />
+				<a href="https://github.com/RamonCintas">
+			      		<img src="https://github.com/RamonCintas/RamonCintas/blob/main/assets/registros-saude.jpg" />
+			      	</a>
+		      	</td>
+			<td valign="top">
+				<h3>Health: Health Records Project</h3>
+				<p>Projects to improve programming knowledge with a focus on health</p>
+				<a href="https://github.com/RamonCintas">
+ 			 		<img src="https://img.shields.io/badge/See%20project%20-E7ECEB?style=for-the-badge&logo=phoenixframework&logoColor=%23FD4F00" alt="See project">
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<td align="center" valign="center" width="200" height="200"><br />
+				<a href="https://github.com/RamonCintasGomes">
+			      		<img src="https://github.com/RamonCintas/RamonCintas/blob/main/assets/organizacao.jpg" />
+			      	</a>
+		      	</td>
+			<td valign="top">
+				<h3>Open source projects: Ramon Cintas Gomes Organization</h3>
+				<p>Here are all the open source projects that are not among the private source projects in the RamonCintas repository</p>
+				<a href="https://github.com/RamonCintas">
+ 			 		<img src="https://img.shields.io/badge/Go%20to%20organization-E7ECEB?style=for-the-badge&logo=phoenixframework&logoColor=%23FD4F00" alt="See organization">
 				</a>
 			</td>
 		</tr>
 	</tbody>
 </table>
+
 
 ---
 
