@@ -127,6 +127,11 @@
 				<a href="https://github.com/RamonCintas">
  			 		<img src="https://img.shields.io/badge/ver%20projeto-E7ECEB?style=for-the-badge&logo=phoenixframework&logoColor=%23FD4F00" alt="Ver projeto">
 				</a>
+   				<div>
+				</div>
+				<a href="https://find-pets.infinityfreeapp.com/">
+ 			 		<img src="https://img.shields.io/badge/Ir%20para%20o%20site%20Find%20Pets-E7ECEB?style=for-the-badge&logo=phoenixframework&logoColor=%23FD4F00" alt="Ir para o site find pets">
+				</a>
 			</td>
 		</tr>
   		<tr>
@@ -195,7 +200,7 @@
 				<h3>Projetos de código aberto: Organização Ramon Cintas Gomes</h3>
 				<p>Aqui estão todos os projetos de código aberto que não estão entre os projetos de código privado no repositório RamonCintas</p>
 				<a href="https://github.com/RamonCintas">
- 			 		<img src="https://img.shields.io/badge/ver%20organização-E7ECEB?style=for-the-badge&logo=phoenixframework&logoColor=%23FD4F00" alt="Ver organização">
+ 			 		<img src="https://img.shields.io/badge/Ir%20para%20a%20organização-E7ECEB?style=for-the-badge&logo=phoenixframework&logoColor=%23FD4F00" alt="Ver organização">
 				</a>
 			</td>
 		</tr>
