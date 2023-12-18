@@ -142,7 +142,7 @@
 		      	</td>
 			<td valign="top">
 				<h3>API: Projeto CRUD Spring Boot + Angular</h3>
-				<p>Projeto para aprimorar os conhecimentos de programação construindo uma API com front-end e back-end para doações online.</p>
+				<p>Projeto para aprimorar os conhecimentos de programação construindo uma API (Interface de Programação de Aplicação) com front-end e back-end para doações online.</p>
 				<a href="https://github.com/RamonCintas">
  			 		<img src="https://img.shields.io/badge/ver%20projeto-E7ECEB?style=for-the-badge&logo=phoenixframework&logoColor=%23FD4F00" alt="Ver projeto">
 				</a>
