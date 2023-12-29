@@ -118,33 +118,24 @@
 		<tr>
 			<td align="center" valign="center" width="200" height="200"><br />
 				<a href="https://github.com/RamonCintas">
-			      		<img src="https://github.com/RamonCintas/RamonCintas/blob/main/assets/findpets-logo.png" />
+			      		<img src="https://github.com/RamonCintas/RamonCintas/blob/main/assets/site.png" />
 			      	</a>
 		      	</td>
 			<td valign="top">
-				<h3>Find Pets Mobile e Web</h3>
-				<p>Projeto para aprimorar os conhecimentos de programação desenvolvendo um site responsivo e hospedado com front-end e back-end para doação e adoção de cachorros e gatos.</p>
+				<h3>Sites hospedados: Site Find Pets, Site Eagle Vision</h3>
+				<p>Projeto para aprimorar os conhecimentos de programação desenvolvendo sites responsivos e hospedados com front-end e back-end totalmente funcionais.</p>
 				<a href="https://github.com/RamonCintas">
- 			 		<img src="https://img.shields.io/badge/ver%20projeto-E7ECEB?style=for-the-badge&logo=phoenixframework&logoColor=%23FD4F00" alt="Ver projeto">
+ 			 		<img src="https://img.shields.io/badge/ver%20projetos-E7ECEB?style=for-the-badge&logo=phoenixframework&logoColor=%23FD4F00" alt="Ver projeto">
 				</a>
    				<div>
 				</div>
 				<a href="https://find-pets.infinityfreeapp.com/" target="_blank">
  			 		<img src="https://img.shields.io/badge/Ir%20para%20o%20site%20Find%20Pets-E7ECEB?style=for-the-badge&logo=phoenixframework&logoColor=%23FD4F00" alt="Ir para o site find pets">
 				</a>
-			</td>
-		</tr>
-  		<tr>
-			<td align="center" valign="center" width="200" height="200"><br />
-				<a href="https://github.com/RamonCintas">
-			      		<img src="https://github.com/RamonCintas/RamonCintas/blob/main/assets/crud-logo.png" />
-			      	</a>
-		      	</td>
-			<td valign="top">
-				<h3>API: Projeto CRUD Spring Boot + Angular</h3>
-				<p>Projeto para aprimorar os conhecimentos de programação construindo uma API (Interface de Programação de Aplicação) com front-end e back-end para doações online.</p>
-				<a href="https://github.com/RamonCintas">
- 			 		<img src="https://img.shields.io/badge/ver%20projeto-E7ECEB?style=for-the-badge&logo=phoenixframework&logoColor=%23FD4F00" alt="Ver projeto">
+				<div>
+				</div>
+				<a href="https://eagle-vision.infinityfreeapp.com/" target="_blank">
+ 			 		<img src="https://img.shields.io/badge/Ir%20para%20o%20site%20Eagle%20Vision-E7ECEB?style=for-the-badge&logo=phoenixframework&logoColor=%23FD4F00" alt="Ir para o site eagle vision">
 				</a>
 			</td>
 		</tr>
@@ -158,7 +149,7 @@
 				<h3>Grandes Dados: Projeto Análise de Pareto, Projeto Medida de Dispersão</h3>
 				<p>Projetos para aprimorar os conhecimentos de programação com o foco em grandes volumes de dados.</p>
 				<a href="https://github.com/RamonCintas">
- 			 		<img src="https://img.shields.io/badge/ver%20projeto-E7ECEB?style=for-the-badge&logo=phoenixframework&logoColor=%23FD4F00" alt="Ver projeto">
+ 			 		<img src="https://img.shields.io/badge/ver%20projetos-E7ECEB?style=for-the-badge&logo=phoenixframework&logoColor=%23FD4F00" alt="Ver projetos">
 				</a>
 			</td>
 		</tr>
@@ -172,7 +163,7 @@
 				<h3>Cibersegurança: Projeto Ransomware, Projeto Phishing</h3>
 				<p>Projetos para aprimorar os conhecimentos de programação com o foco em segurança da informação.</p>
 				<a href="https://github.com/RamonCintas">
- 			 		<img src="https://img.shields.io/badge/ver%20projeto-E7ECEB?style=for-the-badge&logo=phoenixframework&logoColor=%23FD4F00" alt="Ver projeto">
+ 			 		<img src="https://img.shields.io/badge/ver%20projetos-E7ECEB?style=for-the-badge&logo=phoenixframework&logoColor=%23FD4F00" alt="Ver projetos">
 				</a>
 			</td>
 		</tr>
@@ -183,10 +174,10 @@
 			      	</a>
 		      	</td>
 			<td valign="top">
-				<h3>Saúde: Projeto Registros de Saúde</h3>
-				<p>Projetos para aprimorar os conhecimentos de programação com o foco em saúde.</p>
+				<h3>Saúde: Projeto Registros de Saúde, Projeto API Doações online</h3>
+				<p>Projetos para aprimorar os conhecimentos de programação com o foco em saúde e doação.</p>
 				<a href="https://github.com/RamonCintas">
- 			 		<img src="https://img.shields.io/badge/ver%20projeto-E7ECEB?style=for-the-badge&logo=phoenixframework&logoColor=%23FD4F00" alt="Ver projeto">
+ 			 		<img src="https://img.shields.io/badge/ver%20projetos-E7ECEB?style=for-the-badge&logo=phoenixframework&logoColor=%23FD4F00" alt="Ver projetos">
 				</a>
 			</td>
 		</tr>
