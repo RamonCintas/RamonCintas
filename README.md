@@ -110,7 +110,7 @@
 ---
 
 
-<table>
+<table style="width=100%;">
 	<thead>
 		<tr>
 			<th colspan="2" width="2000"><h2>📘 Private source projects</h2></th>
@@ -125,7 +125,7 @@
 			<td valign="top">
 				<h3>Hosted websites: Find Pets website, Eagle Vision website</h3>
 				<p>Projects to improve programming skills by developing responsive and hosted websites with a fully functional front-end and back-end.</p>
-				<table>
+				<table style="width=100%;">
 					<tr>
 						<td>
 							<a href="https://github.com/RamonCintas"><img src="https://img.shields.io/badge/See%20the%20Find%20Pets%20project-E7ECEB?style=for-the-badge&logo=phoenixframework&logoColor=%23FD4F00" alt="See the Find Pets project"></a>
