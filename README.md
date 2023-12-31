@@ -124,7 +124,7 @@
 		      	</td>
 			<td valign="top">
 				<h3>Hosted websites: Find Pets website, Eagle Vision website</h3>
-				<p>Projects to improve programming skills by developing responsive and hosted websites with a fully functional front-end and back-end.</p>
+				<p>⚡ Projects to improve programming skills by developing responsive and hosted websites with a fully functional front-end and back-end.</p>
 				<a href="https://github.com/RamonCintas"><img src="https://img.shields.io/badge/See%20the%20Find%20Pets%20project-E7ECEB?style=for-the-badge&logo=phoenixframework&logoColor=%23FD4F00" alt="See Find Pets project"></a>
 				<a href="https://find-pets.infinityfreeapp.com/"><img src="https://img.shields.io/badge/Go%20to%20the%20find%20pets%20website-E7ECEB?style=for-the-badge&logo=phoenixframework&logoColor=%23FD4F00" alt="Go to the find pets website"></a><br>
     				<a href="https://github.com/RamonCintas"><img src="https://img.shields.io/badge/See%20Eagle%20Vision%20project-E7ECEB?style=for-the-badge&logo=phoenixframework&logoColor=%23FD4F00" alt="See Eagle Vision project"></a>
@@ -137,7 +137,7 @@
 		      	</td>
 			<td valign="top">
 				<h3>Health: Health Records Project, API Online Donations Project</h3>
-				<p>Projects to improve programming skills with a focus on health and donation.</p>
+				<p>⚡ Projects to improve programming skills with a focus on health and donation.</p>
 				<a href="https://github.com/RamonCintas"><img src="https://img.shields.io/badge/See%20API%20Donations%20online%20project-E7ECEB?style=for-the-badge&logo=phoenixframework&logoColor=%23FD4F00" alt="See API Donations online project"></a>
 				<a href="https://github.com/RamonCintas"><img src="https://img.shields.io/badge/See%20Health%20Records%20project-E7ECEB?style=for-the-badge&logo=phoenixframework&logoColor=%23FD4F00" alt="See Health Records project"></a>
 			</td>
@@ -148,7 +148,7 @@
 		      	</td>
 			<td valign="top">
 				<h3>Cybersecurity: Ransomware Project, Phishing Project</h3>
-				<p>Projects to improve programming skills with a focus on information security.</p>
+				<p>⚡ Projects to improve programming skills with a focus on information security.</p>
 				<a href="https://github.com/RamonCintas"><img src="https://img.shields.io/badge/see%20Ransomware%20project-E7ECEB?style=for-the-badge&logo=phoenixframework&logoColor=%23FD4F00" alt="See Ransomware project"></a>
 				<a href="https://github.com/RamonCintas"><img src="https://img.shields.io/badge/See%20Phishing%20Project-E7ECEB?style=for-the-badge&logo=phoenixframework&logoColor=%23FD4F00" alt="See Phishing Project"></a>
 			</td>
@@ -159,7 +159,7 @@
 		      	</td>
 			<td valign="top">
 				<h3>Big Data: Pareto Analysis Project, Dispersion Measure Project</h3>
-				<p>Projects to improve programming knowledge with a focus on large volumes of data.</p>
+				<p>⚡ Projects to improve programming knowledge with a focus on large volumes of data.</p>
 				<a href="https://github.com/RamonCintas"><img src="https://img.shields.io/badge/see%20Analysis%20of%20Pareto%20project-E7ECEB?style=for-the-badge&logo=phoenixframework&logoColor=%23FD4F00" alt="See Pareto Analysis project"></a>
 				<a href="https://github.com/RamonCintas"><img src="https://img.shields.io/badge/see%20Dispersion%20Measure%20project-E7ECEB?style=for-the-badge&logo=phoenixframework&logoColor=%23FD4F00" alt="See Dispersion Measure project"></a>
 			</td>
@@ -170,7 +170,7 @@
 		      	</td>
 			<td valign="top">
 				<h3>Open source projects: Ramon Cintas Gomes Organization</h3>
-				<p>Here are all the open source projects that are not among the private source projects in the RamonCintas repository.</p>
+				<p>⚡ Here are all the open source projects that are not among the private source projects in the RamonCintas repository.</p>
 				<a href="https://github.com/RamonCintasGomes" target="_blank"><img src="https://img.shields.io/badge/Go%20to%20the%20organization-E7ECEB?style=for-the-badge&logo=phoenixframework&logoColor=%23FD4F00" alt="See organization"></a>
 			</td>
 		</tr>
