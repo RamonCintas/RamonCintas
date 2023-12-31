@@ -125,8 +125,10 @@
 			<td valign="top">
 				<h3>Hosted websites: Find Pets website, Eagle Vision website</h3>
 				<p>Projects to improve programming skills by developing responsive and hosted websites with a fully functional front-end and back-end.</p>
-				<a href="https://github.com/RamonCintas"><img src="https://img.shields.io/badge/See%20the%20Find%20Pets%20project-E7ECEB?style=for-the-badge&logo=phoenixframework&logoColor=%23FD4F00" alt="See the Find Pets project"></a>
-				<a href="https://github.com/RamonCintas"><img src="https://img.shields.io/badge/See%20Eagle%20Vision%20project-E7ECEB?style=for-the-badge&logo=phoenixframework&logoColor=%23FD4F00" alt="See Eagle Vision project"></a>
+				<a href="https://github.com/RamonCintas"><img src="https://img.shields.io/badge/See%20the%20Find%20Pets%20project-E7ECEB?style=for-the-badge&logo=phoenixframework&logoColor=%23FD4F00" alt="See Find Pets project"></a>
+				<a href="https://find-pets.infinityfreeapp.com/"><img src="https://img.shields.io/badge/Go%20to%20the%20find%20pets%20website-E7ECEB?style=for-the-badge&logo=phoenixframework&logoColor=%23FD4F00" alt="Go to the find pets website"></a><br>
+    				<a href="https://github.com/RamonCintas"><img src="https://img.shields.io/badge/See%20Eagle%20Vision%20project-E7ECEB?style=for-the-badge&logo=phoenixframework&logoColor=%23FD4F00" alt="See Eagle Vision project"></a>
+				<a href="https://eagle-vision.infinityfreeapp.com/"><img src="https://img.shields.io/badge/Go%20to%20the%20eagle%20vision%20website-E7ECEB?style=for-the-badge&logo=phoenixframework&logoColor=%23FD4F00" alt="Go to the eagle vision website"></a>
 			</td>
 		</tr>
 		<tr>
