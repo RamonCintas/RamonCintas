@@ -124,7 +124,7 @@
 				<h3>Sites hospedados: Site Find Pets, Site Eagle Vision</h3>
 				<p>Projetos para aprimorar os conhecimentos de programação desenvolvendo sites responsivos e hospedados com front-end e back-end totalmente funcionais.</p>
 				<a href="https://github.com/RamonCintas"><img src="https://img.shields.io/badge/ver%20projeto%20Find%20Pets-E7ECEB?style=for-the-badge&logo=phoenixframework&logoColor=%23FD4F00" alt="Ver projeto Find Pets"></a>
-				<a href="https://find-pets.infinityfreeapp.com/" target="_blank"><img src="https://img.shields.io/badge/Ir%20para%20o%20site%20Find%20Pets-E7ECEB?style=for-the-badge&logo=phoenixframework&logoColor=%23FD4F00" alt="Ir para o site find pets"></a>
+				<a href="https://find-pets.infinityfreeapp.com/" target="_blank"><img src="https://img.shields.io/badge/Ir%20para%20o%20site%20Find%20Pets-E7ECEB?style=for-the-badge&logo=phoenixframework&logoColor=%23FD4F00" alt="Ir para o site find pets"></a><br>
 				<a href="https://github.com/RamonCintas"><img src="https://img.shields.io/badge/ver%20projeto%20Eagle%20Vision-E7ECEB?style=for-the-badge&logo=phoenixframework&logoColor=%23FD4F00" alt="Ver projeto Eagle Vision"></a>
 	    			<a href="https://eagle-vision.infinityfreeapp.com/" target="_blank"><img src="https://img.shields.io/badge/Ir%20para%20o%20site%20Eagle%20Vision-E7ECEB?style=for-the-badge&logo=phoenixframework&logoColor=%23FD4F00" alt="Ir para o site eagle vision"></a>
 			</td>
