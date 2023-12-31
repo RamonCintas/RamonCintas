@@ -122,7 +122,7 @@
 		      	</td>
 			<td valign="top">
 				<h3>Sites hospedados: Site Find Pets, Site Eagle Vision</h3>
-				<p>Projetos para aprimorar os conhecimentos de programação desenvolvendo sites responsivos e hospedados com front-end e back-end totalmente funcionais.</p>
+				<p>⚡ Projetos para aprimorar os conhecimentos de programação desenvolvendo sites responsivos e hospedados com front-end e back-end totalmente funcionais.</p>
 				<a href="https://github.com/RamonCintas"><img src="https://img.shields.io/badge/ver%20projeto%20Find%20Pets-E7ECEB?style=for-the-badge&logo=phoenixframework&logoColor=%23FD4F00" alt="Ver projeto Find Pets"></a>
 				<a href="https://find-pets.infinityfreeapp.com/" target="_blank"><img src="https://img.shields.io/badge/Ir%20para%20o%20site%20Find%20Pets-E7ECEB?style=for-the-badge&logo=phoenixframework&logoColor=%23FD4F00" alt="Ir para o site find pets"></a><br>
 				<a href="https://github.com/RamonCintas"><img src="https://img.shields.io/badge/ver%20projeto%20Eagle%20Vision-E7ECEB?style=for-the-badge&logo=phoenixframework&logoColor=%23FD4F00" alt="Ver projeto Eagle Vision"></a>
@@ -135,7 +135,7 @@
 		      	</td>
 			<td valign="top">
 				<h3>Saúde: Projeto Registros de Saúde, Projeto API Doações online</h3>
-				<p>Projetos para aprimorar os conhecimentos de programação com o foco em saúde e doação.</p>
+				<p>⚡ Projetos para aprimorar os conhecimentos de programação com o foco em saúde e doação.</p>
 				<a href="https://github.com/RamonCintas"><img src="https://img.shields.io/badge/ver%20projeto%20Registros%20de%20Saúde-E7ECEB?style=for-the-badge&logo=phoenixframework&logoColor=%23FD4F00" alt="Ver projeto Registros de Saúde"></a>
 				<a href="https://github.com/RamonCintas"><img src="https://img.shields.io/badge/ver%20projeto%20API%20Doações%20online-E7ECEB?style=for-the-badge&logo=phoenixframework&logoColor=%23FD4F00" alt="Ver projeto API Doações online"></a>
 			</td>
@@ -146,7 +146,7 @@
 		      	</td>
 			<td valign="top">
 				<h3>Cibersegurança: Projeto Ransomware, Projeto Phishing</h3>
-				<p>Projetos para aprimorar os conhecimentos de programação com o foco em segurança da informação.</p>
+				<p>⚡ Projetos para aprimorar os conhecimentos de programação com o foco em segurança da informação.</p>
 				<a href="https://github.com/RamonCintas"><img src="https://img.shields.io/badge/ver%20projeto%20Ransomware-E7ECEB?style=for-the-badge&logo=phoenixframework&logoColor=%23FD4F00" alt="Ver projeto Ransomware"></a>
 				<a href="https://github.com/RamonCintas"><img src="https://img.shields.io/badge/ver%20projeto%20Phishing-E7ECEB?style=for-the-badge&logo=phoenixframework&logoColor=%23FD4F00" alt="Ver projeto API Doações online"></a>
 		</tr>
@@ -156,7 +156,7 @@
 		      	</td>
 			<td valign="top">
 				<h3>Grandes Dados: Projeto Análise de Pareto, Projeto Medida de Dispersão</h3>
-				<p>Projetos para aprimorar os conhecimentos de programação com o foco em grandes volumes de dados.</p>
+				<p>⚡ Projetos para aprimorar os conhecimentos de programação com o foco em grandes volumes de dados.</p>
 				<a href="https://github.com/RamonCintas"><img src="https://img.shields.io/badge/ver%20projeto%20Análise%20de%20Pareto-E7ECEB?style=for-the-badge&logo=phoenixframework&logoColor=%23FD4F00" alt="Ver projeto Análise de Pareto"></a>
 				<a href="https://github.com/RamonCintas"><img src="https://img.shields.io/badge/ver%20projeto%20Medida%20de%20Dispersão-E7ECEB?style=for-the-badge&logo=phoenixframework&logoColor=%23FD4F00" alt="Ver projeto Medida de Dispersão"></a>
 		</tr>
@@ -166,7 +166,7 @@
 		      	</td>
 			<td valign="top">
 				<h3>Projetos de código aberto: Organização Ramon Cintas Gomes</h3>
-				<p>Aqui estão todos os projetos de código aberto que não estão entre os projetos de código privado no repositório RamonCintas.</p>
+				<p>⚡ Aqui estão todos os projetos de código aberto que não estão entre os projetos de código privado no repositório RamonCintas.</p>
 				<a href="https://github.com/RamonCintasGomes" target="_blank"><img src="https://img.shields.io/badge/Ir%20para%20a%20organização-E7ECEB?style=for-the-badge&logo=phoenixframework&logoColor=%23FD4F00" alt="Ver organização"></a>
 			</td>
 		</tr>
