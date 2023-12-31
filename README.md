@@ -138,16 +138,8 @@
 			<td valign="top">
 				<h3>Health: Health Records Project, API Online Donations Project</h3>
 				<p>Projects to improve programming skills with a focus on health and donation.</p>
-				<table>
-					<tr>
-						<td>
-							<a href="https://github.com/RamonCintas"><img src="https://img.shields.io/badge/See%20API%20Donations%20online%20project-E7ECEB?style=for-the-badge&logo=phoenixframework&logoColor=%23FD4F00" alt="See API Donations online project"></a>
-						</td>
-						<td>
-							<a href="https://github.com/RamonCintas"><img src="https://img.shields.io/badge/See%20Health%20Records%20project-E7ECEB?style=for-the-badge&logo=phoenixframework&logoColor=%23FD4F00" alt="See Health Records project"></a>
-						</td>
-				    	</tr>
-				</table>
+				<a href="https://github.com/RamonCintas"><img src="https://img.shields.io/badge/See%20API%20Donations%20online%20project-E7ECEB?style=for-the-badge&logo=phoenixframework&logoColor=%23FD4F00" alt="See API Donations online project"></a>
+				<a href="https://github.com/RamonCintas"><img src="https://img.shields.io/badge/See%20Health%20Records%20project-E7ECEB?style=for-the-badge&logo=phoenixframework&logoColor=%23FD4F00" alt="See Health Records project"></a>
 			</td>
 		</tr>
 		<tr>
@@ -157,16 +149,8 @@
 			<td valign="top">
 				<h3>Cybersecurity: Ransomware Project, Phishing Project</h3>
 				<p>Projects to improve programming skills with a focus on information security.</p>
-				<table>
-					<tr>
-						<td>
-							<a href="https://github.com/RamonCintas"><img src="https://img.shields.io/badge/see%20Ransomware%20project-E7ECEB?style=for-the-badge&logo=phoenixframework&logoColor=%23FD4F00" alt="See Ransomware project"></a>
-						</td>
-	  					<td>
-							<a href="https://github.com/RamonCintas"><img src="https://img.shields.io/badge/See%20Phishing%20Project-E7ECEB?style=for-the-badge&logo=phoenixframework&logoColor=%23FD4F00" alt="See Phishing Project"></a>
-						</td>
-				    	</tr>
-				</table>
+				<a href="https://github.com/RamonCintas"><img src="https://img.shields.io/badge/see%20Ransomware%20project-E7ECEB?style=for-the-badge&logo=phoenixframework&logoColor=%23FD4F00" alt="See Ransomware project"></a>
+				<a href="https://github.com/RamonCintas"><img src="https://img.shields.io/badge/See%20Phishing%20Project-E7ECEB?style=for-the-badge&logo=phoenixframework&logoColor=%23FD4F00" alt="See Phishing Project"></a>
 			</td>
 		</tr>
 		<tr>
@@ -176,16 +160,8 @@
 			<td valign="top">
 				<h3>Big Data: Pareto Analysis Project, Dispersion Measure Project</h3>
 				<p>Projects to improve programming knowledge with a focus on large volumes of data.</p>
-				<table>
-					<tr>
-						<td>
-							<a href="https://github.com/RamonCintas"><img src="https://img.shields.io/badge/see%20Analysis%20of%20Pareto%20project-E7ECEB?style=for-the-badge&logo=phoenixframework&logoColor=%23FD4F00" alt="See Pareto Analysis project"></a>
-						</td>
-	  					<td>
-							<a href="https://github.com/RamonCintas"><img src="https://img.shields.io/badge/see%20Dispersion%20Measure%20project-E7ECEB?style=for-the-badge&logo=phoenixframework&logoColor=%23FD4F00" alt="See Dispersion Measure project"></a>
-						</td>
-				    	</tr>
-				</table>
+				<a href="https://github.com/RamonCintas"><img src="https://img.shields.io/badge/see%20Analysis%20of%20Pareto%20project-E7ECEB?style=for-the-badge&logo=phoenixframework&logoColor=%23FD4F00" alt="See Pareto Analysis project"></a>
+				<a href="https://github.com/RamonCintas"><img src="https://img.shields.io/badge/see%20Dispersion%20Measure%20project-E7ECEB?style=for-the-badge&logo=phoenixframework&logoColor=%23FD4F00" alt="See Dispersion Measure project"></a>
 			</td>
 		</tr>
 		<tr>
