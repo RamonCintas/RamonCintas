@@ -117,14 +117,24 @@
 	<tbody>
 		<tr>
 			<td align="center" valign="center" width="200" height="200"><br />
-				<a href="https://github.com/RamonCintas"><img src="https://github.com/RamonCintas/RamonCintas/blob/main/assets/site.png" />
+				<a href="https://github.com/RamonCintas"><img src="https://github.com/RamonCintas/RamonCintas/blob/main/assets/findpets-logo.png" />
 			      	</a>
 		      	</td>
 			<td valign="top">
-				<h3>Sites hospedados: Site Find Pets, Site Eagle Vision</h3>
-				<p>⚡ Projetos para aprimorar os conhecimentos de programação desenvolvendo sites responsivos e hospedados com front-end e back-end totalmente funcionais.</p>
+				<h3>Site hospedado: Site Find Pets</h3>
+				<p>⚡ Projeto para aprimorar os conhecimentos de programação desenvolvendo um site responsivo e hospedado com front-end e back-end totalmente funcional para cachorros e gatos que estejam na situação de adoção, doação, denúncia de maus-tratos, animal perdido, animal avistado.</p>
 				<a href="https://github.com/RamonCintas"><img src="https://img.shields.io/badge/ver%20projeto%20Find%20Pets-E7ECEB?style=for-the-badge&logo=phoenixframework&logoColor=%23FD4F00" alt="Ver projeto Find Pets"></a>
-				<a href="https://find-pets.infinityfreeapp.com/" target="_blank"><img src="https://img.shields.io/badge/Ir%20para%20o%20site%20Find%20Pets-E7ECEB?style=for-the-badge&logo=phoenixframework&logoColor=%23FD4F00" alt="Ir para o site find pets"></a><br>
+				<a href="https://find-pets.infinityfreeapp.com/" target="_blank"><img src="https://img.shields.io/badge/Ir%20para%20o%20site%20Find%20Pets-E7ECEB?style=for-the-badge&logo=phoenixframework&logoColor=%23FD4F00" alt="Ir para o site find pets"></a>
+			</td>
+		</tr>
+		<tr>
+			<td align="center" valign="center" width="200" height="200"><br />
+				<a href="https://github.com/RamonCintas"><img src="https://github.com/RamonCintas/RamonCintas/blob/main/assets/eagle-vision-logo.png" />
+			      	</a>
+		      	</td>
+			<td valign="top">
+				<h3>Site hospedado: Site Eagle Vision</h3>
+				<p>⚡ Projeto para aprimorar os conhecimentos de programação desenvolvendo um site responsivos e hospedados com front-end e back-end totalmente funcional para venda de equipamentos de oftalmologia.</p>
 				<a href="https://github.com/RamonCintas"><img src="https://img.shields.io/badge/ver%20projeto%20Eagle%20Vision-E7ECEB?style=for-the-badge&logo=phoenixframework&logoColor=%23FD4F00" alt="Ver projeto Eagle Vision"></a>
 	    			<a href="https://eagle-vision.infinityfreeapp.com/" target="_blank"><img src="https://img.shields.io/badge/Ir%20para%20o%20site%20Eagle%20Vision-E7ECEB?style=for-the-badge&logo=phoenixframework&logoColor=%23FD4F00" alt="Ir para o site eagle vision"></a>
 			</td>
@@ -160,13 +170,72 @@
 				<a href="https://github.com/RamonCintas"><img src="https://img.shields.io/badge/ver%20projeto%20Análise%20de%20Pareto-E7ECEB?style=for-the-badge&logo=phoenixframework&logoColor=%23FD4F00" alt="Ver projeto Análise de Pareto"></a>
 				<a href="https://github.com/RamonCintas"><img src="https://img.shields.io/badge/ver%20projeto%20Medida%20de%20Dispersão-E7ECEB?style=for-the-badge&logo=phoenixframework&logoColor=%23FD4F00" alt="Ver projeto Medida de Dispersão"></a>
 		</tr>
+	</tbody>
+</table>
+
+
+<table>
+	<thead>
+		<tr>
+			<th colspan="2" width="2000"><h2>📖 Projetos de código aberto</h2></th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td align="center" valign="center" width="200" height="200"><br />
+				<a href="https://github.com/RamonCintas">
+			      		<img src="https://github.com/RamonCintas/RamonCintas/blob/main/assets/fatec-logo.png" />
+			      	</a>
+		      	</td>
+			<td valign="top">
+				<h3>Fatec (Faculdade de Tecnologia do Estado de São Paulo)</h3>
+				<p>⚡ Projetos desenvolvidos do curso tecnólogo em ADS (Análise e desenvolvimento de sistemas) na instituição de ensino superior Fatec.</p>
+				<a href="https://github.com/RamonCintas"><img src="https://img.shields.io/badge/ver%20projetos-E7ECEB?style=for-the-badge&logo=phoenixframework&logoColor=%23FD4F00" alt="Ver projetos"></a>
+				<a href="https://www.vestibularfatec.com.br/unidades-cursos/curso.asp?c=194" target="_blank"><img src="https://img.shields.io/badge/Ir%20para%20o%20site%20fatec-E7ECEB?style=for-the-badge&logo=phoenixframework&logoColor=%23FD4F00" alt="Ir para o site da fatec"></a>
+			</td>
+		</tr>
+		<tr>
+			<td align="center" valign="center" width="200" height="200"><br />
+				<a href="https://github.com/RamonCintas">
+			      		<img src="https://github.com/RamonCintas/RamonCintas/blob/main/assets/senai-logo.jpg" />
+			      	</a>
+		      	</td>
+			<td valign="top">
+				<h3>Senai (Serviço Nacional de Aprendizagem Industrial)</h3>
+				<p>⚡ Projetos desenvolvidos do curso técnico em informática para internet na instituição de ensino superior Senai.</p>
+				<a href="https://github.com/RamonCintas"><img src="https://img.shields.io/badge/ver%20projetos-E7ECEB?style=for-the-badge&logo=phoenixframework&logoColor=%23FD4F00" alt="Ver projetos"></a>
+				<a href="https://www.sp.senai.br/curso/tecnico-em-informatica-para-internet/92660" target="_blank"><img src="https://img.shields.io/badge/Ir%20para%20o%20site%20fatec-E7ECEB?style=for-the-badge&logo=phoenixframework&logoColor=%23FD4F00" alt="Ir para o site da fatec"></a>
+			</td>
+		</tr>
+  		<tr>
+			<td align="center" valign="center" width="200" height="200"><br />
+				<a href="https://github.com/RamonCintas"><img src="https://github.com/RamonCintasGomes/.github/blob/main/profile/assets/dio-logo.jpg" /></a>
+		      	</td>
+			<td valign="top">
+				<h3>DIO (Digital Innovation One)</h3>
+				<p>⚡ Projetos desenvolvidos na plataforma de ensino de tecnologias da Digital Innovation One.</p>
+				<a href="https://github.com/RamonCintas"><img src="https://img.shields.io/badge/ver%20projetos-E7ECEB?style=for-the-badge&logo=phoenixframework&logoColor=%23FD4F00" alt="Ver projetos"></a>
+				<a href="https://www.dio.me/" target="_blank"><img src="https://img.shields.io/badge/Ir%20para%20o%20site%20DIO-E7ECEB?style=for-the-badge&logo=phoenixframework&logoColor=%23FD4F00" alt="Ir para o site da DIO"></a>
+			</td>
+		</tr>
+		<tr>
+			<td align="center" valign="center" width="200" height="200"><br />
+				<a href="https://github.com/RamonCintas"><img src="https://github.com/RamonCintasGomes/.github/blob/main/profile/assets/urionline.png" /></a>
+		      	</td>
+			<td valign="top">
+				<h3>Beecrowd / URI Online Judge</h3>
+				<p>⚡ Projetos desenvolvidos na plataforma de desafios de código Beecrowd.</p>
+				<a href="https://github.com/RamonCintas"><img src="https://img.shields.io/badge/ver%20projetos-E7ECEB?style=for-the-badge&logo=phoenixframework&logoColor=%23FD4F00" alt="Ver projetos"></a>
+				<a href="https://www.beecrowd.com.br/judge/pt/login" target="_blank"><img src="https://img.shields.io/badge/Ir%20para%20o%20site%20Beecrowd-E7ECEB?style=for-the-badge&logo=phoenixframework&logoColor=%23FD4F00" alt="Ir para o site Beecrowd"></a>
+			</td>
+		</tr>
 		<tr>
 			<td align="center" valign="center" width="200" height="200"><br />
 				<a href="https://github.com/RamonCintasGomes" target="_blank"><img src="https://github.com/RamonCintas/RamonCintas/blob/main/assets/organizacao.jpg" /></a>
 		      	</td>
 			<td valign="top">
-				<h3>Projetos de código aberto: Organização Ramon Cintas Gomes</h3>
-				<p>⚡ Aqui estão todos os projetos de código aberto que não estão entre os projetos de código privado no repositório RamonCintas.</p>
+				<h3>Projetos de base: Organização Ramon Cintas Gomes</h3>
+				<p>⚡ Aqui estão todos os repositórios que foram usados como base para alguns projetos que foram desenvolvidos no repositório RamonCintas.</p>
 				<a href="https://github.com/RamonCintasGomes" target="_blank"><img src="https://img.shields.io/badge/Ir%20para%20a%20organização-E7ECEB?style=for-the-badge&logo=phoenixframework&logoColor=%23FD4F00" alt="Ver organização"></a>
 			</td>
 		</tr>
