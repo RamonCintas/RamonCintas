@@ -5,7 +5,7 @@
   
 </div>
 
-<h1 align="center">Olá mundo, meu nome é Ramon Cintas Gomes 👋</h1>
+<h1 align="center">Olá mundo, meu nome é Ramon Cintas Gomes 👋 <br> 🏁 Bem-vindo ao meu portfólio digital</h1>
 
 <div align="center">
 	<img height="320em" src="https://github.com/RamonCintas/RamonCintas/blob/main/assets/programador.gif"/>
@@ -21,7 +21,7 @@
 
 ---
 
-### 🎯 Fluente em linguagens de programação e linguagem de negócios
+### 🎯 Fluente em linguagens de programação e nunca parando de aprender
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&size=35&pause=1000&color=00FF04FF&center=true&vCenter=true&random=false&width=1000&lines=Olá+Mundo!+Eu+sou+Ramon+Cintas;Desenvolvedor+full-stack+web+e+app+;Experiencia+com+UI/UX+Designer;Sempre+aprendendo+coisas+novas;Graduando+no+curso+ADS+;Estudando+na+Fatec+à+noite;Estou+no+5º+semestre;Disponível+para+entrevistas;Estou+disponível+para+contato;Bem-vindo(a)+ao+meu+portfólio)](https://www.linkedin.com/in/ramon-cg/)
 
@@ -121,20 +121,20 @@
 			      	</a>
 		      	</td>
 			<td valign="top">
-				<h3>Site hospedado: Site Find Pets</h3>
-				<p>⚡ Projeto para aprimorar os conhecimentos de programação desenvolvendo um site responsivo e hospedado com front-end e back-end totalmente funcional para cachorros e gatos que estejam na situação de adoção, doação, denúncia de maus-tratos, animal perdido, animal avistado.</p>
+				<h3>Site hospedado: Projeto Find Pets</h3>
+				<p>⚡ Projeto para aprimorar os conhecimentos de programação desenvolvendo um site responsivo e hospedado com front-end e back-end totalmente funcional para cachorros e gatos que estejam na situação de doação, adoção, denúncia de maus-tratos, animal resgatado, perdido, encontrado, abandonado.</p>
 				<a href="https://github.com/RamonCintas"><img src="https://img.shields.io/badge/ver%20projeto%20Find%20Pets-E7ECEB?style=for-the-badge&logo=phoenixframework&logoColor=%23FD4F00" alt="Ver projeto Find Pets"></a>
 				<a href="https://find-pets.infinityfreeapp.com/" target="_blank"><img src="https://img.shields.io/badge/Ir%20para%20o%20site%20Find%20Pets-E7ECEB?style=for-the-badge&logo=phoenixframework&logoColor=%23FD4F00" alt="Ir para o site find pets"></a>
 			</td>
 		</tr>
 		<tr>
 			<td align="center" valign="center" width="200" height="200"><br />
-				<a href="https://github.com/RamonCintas"><img src="https://github.com/RamonCintas/RamonCintas/blob/main/assets/eagle-vision-logo.png" />
+				<a href="https://github.com/RamonCintas"><img src="https://github.com/RamonCintas/RamonCintas/blob/main/assets/eaglevision-logo.png" />
 			      	</a>
 		      	</td>
 			<td valign="top">
-				<h3>Site hospedado: Site Eagle Vision</h3>
-				<p>⚡ Projeto para aprimorar os conhecimentos de programação desenvolvendo um site responsivos e hospedados com front-end e back-end totalmente funcional para venda de equipamentos de oftalmologia.</p>
+				<h3>Site hospedado: Projeto Eagle Vision</h3>
+				<p>⚡ Projeto para aprimorar os conhecimentos de programação desenvolvendo um site responsivos e hospedados com front-end e back-end totalmente funcional para venda, orçamento e relatório técnico de equipamentos de oftalmologia.</p>
 				<a href="https://github.com/RamonCintas"><img src="https://img.shields.io/badge/ver%20projeto%20Eagle%20Vision-E7ECEB?style=for-the-badge&logo=phoenixframework&logoColor=%23FD4F00" alt="Ver projeto Eagle Vision"></a>
 	    			<a href="https://eagle-vision.infinityfreeapp.com/" target="_blank"><img src="https://img.shields.io/badge/Ir%20para%20o%20site%20Eagle%20Vision-E7ECEB?style=for-the-badge&logo=phoenixframework&logoColor=%23FD4F00" alt="Ir para o site eagle vision"></a>
 			</td>
@@ -204,7 +204,7 @@
 				<h3>Senai (Serviço Nacional de Aprendizagem Industrial)</h3>
 				<p>⚡ Projetos desenvolvidos do curso técnico em informática para internet na instituição de ensino superior Senai.</p>
 				<a href="https://github.com/RamonCintas"><img src="https://img.shields.io/badge/ver%20projetos-E7ECEB?style=for-the-badge&logo=phoenixframework&logoColor=%23FD4F00" alt="Ver projetos"></a>
-				<a href="https://www.sp.senai.br/curso/tecnico-em-informatica-para-internet/92660" target="_blank"><img src="https://img.shields.io/badge/Ir%20para%20o%20site%20fatec-E7ECEB?style=for-the-badge&logo=phoenixframework&logoColor=%23FD4F00" alt="Ir para o site da fatec"></a>
+				<a href="https://www.sp.senai.br/curso/tecnico-em-informatica-para-internet/92660" target="_blank"><img src="https://img.shields.io/badge/Ir%20para%20o%20site%20senai-E7ECEB?style=for-the-badge&logo=phoenixframework&logoColor=%23FD4F00" alt="Ir para o site do senai"></a>
 			</td>
 		</tr>
   		<tr>
@@ -235,7 +235,7 @@
 		      	</td>
 			<td valign="top">
 				<h3>Projetos de base: Organização Ramon Cintas Gomes</h3>
-				<p>⚡ Aqui estão todos os repositórios que foram usados como base para alguns projetos que foram desenvolvidos no repositório RamonCintas.</p>
+				<p>⚡ Aqui estão todos os repositórios que foram usados como base para alguns projetos que foram desenvolvidos no meu repositório de portfólio digital RamonCintas.</p>
 				<a href="https://github.com/RamonCintasGomes" target="_blank"><img src="https://img.shields.io/badge/Ir%20para%20a%20organização-E7ECEB?style=for-the-badge&logo=phoenixframework&logoColor=%23FD4F00" alt="Ver organização"></a>
 			</td>
 		</tr>
