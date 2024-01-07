@@ -144,10 +144,10 @@
 				<a href="https://github.com/RamonCintas"><img src="https://github.com/RamonCintas/RamonCintas/blob/main/assets/Health.jpg" /></a>
 		      	</td>
 			<td valign="top">
-				<h3>Saúde: Projeto Registros de Saúde, Projeto API Doações online</h3>
+				<h3>Saúde: Projeto Registros Digitais de Saúde, Projeto API Doações online</h3>
 				<p>⚡ Projetos para aprimorar os conhecimentos de programação com o foco em saúde e doação.</p>
-				<a href="https://github.com/RamonCintas"><img src="https://img.shields.io/badge/ver%20projeto%20API%20Doações%20online-E7ECEB?style=for-the-badge&logo=phoenixframework&logoColor=%23FD4F00" alt="Ver projeto API Doações online"></a>
-				<a href="https://github.com/RamonCintas"><img src="https://img.shields.io/badge/ver%20projeto%20Registros%20de%20Saúde-E7ECEB?style=for-the-badge&logo=phoenixframework&logoColor=%23FD4F00" alt="Ver projeto Registros de Saúde"></a>
+				<a href="https://github.com/RamonCintas/Health_API_Online_Donations"><img src="https://img.shields.io/badge/ver%20projeto%20API%20Doações%20online-E7ECEB?style=for-the-badge&logo=phoenixframework&logoColor=%23FD4F00" alt="Ver projeto API Doações online"></a>
+				<a href="https://github.com/RamonCintas/Health_Digital_Health_Records"><img src="https://img.shields.io/badge/ver%20projeto%20Registros%20de%20Saúde-E7ECEB?style=for-the-badge&logo=phoenixframework&logoColor=%23FD4F00" alt="Ver projeto Registros Digitais de Saúde"></a>
 			</td>
 		</tr>
 		<tr>
@@ -157,8 +157,8 @@
 			<td valign="top">
 				<h3>Cibersegurança: Projeto Ransomware, Projeto Phishing</h3>
 				<p>⚡ Projetos para aprimorar os conhecimentos de programação com o foco em segurança da informação.</p>
-				<a href="https://github.com/RamonCintas"><img src="https://img.shields.io/badge/ver%20projeto%20Ransomware-E7ECEB?style=for-the-badge&logo=phoenixframework&logoColor=%23FD4F00" alt="Ver projeto Ransomware"></a>
-				<a href="https://github.com/RamonCintas"><img src="https://img.shields.io/badge/ver%20projeto%20Phishing-E7ECEB?style=for-the-badge&logo=phoenixframework&logoColor=%23FD4F00" alt="Ver projeto API Doações online"></a>
+				<a href="https://github.com/RamonCintas/Cybersecurity_Ransomware"><img src="https://img.shields.io/badge/ver%20projeto%20Ransomware-E7ECEB?style=for-the-badge&logo=phoenixframework&logoColor=%23FD4F00" alt="Ver projeto Ransomware"></a>
+				<a href="https://github.com/RamonCintas/Cybersecurity_Phishing"><img src="https://img.shields.io/badge/ver%20projeto%20Phishing-E7ECEB?style=for-the-badge&logo=phoenixframework&logoColor=%23FD4F00" alt="Ver projeto API Doações online"></a>
 		</tr>
 		<tr>
 			<td align="center" valign="center" width="200" height="200"><br />
