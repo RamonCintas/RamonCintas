@@ -167,8 +167,8 @@
 			<td valign="top">
 				<h3>Grandes Dados: Projeto Análise de Pareto, Projeto Medida de Dispersão</h3>
 				<p>⚡ Projetos para aprimorar os conhecimentos de programação com o foco em grandes volumes de dados.</p>
-				<a href="https://github.com/RamonCintas"><img src="https://img.shields.io/badge/ver%20projeto%20Análise%20de%20Pareto-E7ECEB?style=for-the-badge&logo=phoenixframework&logoColor=%23FD4F00" alt="Ver projeto Análise de Pareto"></a>
-				<a href="https://github.com/RamonCintas"><img src="https://img.shields.io/badge/ver%20projeto%20Medida%20de%20Dispersão-E7ECEB?style=for-the-badge&logo=phoenixframework&logoColor=%23FD4F00" alt="Ver projeto Medida de Dispersão"></a>
+				<a href="https://github.com/RamonCintas/Big_Data_Pareto_Analysis"><img src="https://img.shields.io/badge/ver%20projeto%20Análise%20de%20Pareto-E7ECEB?style=for-the-badge&logo=phoenixframework&logoColor=%23FD4F00" alt="Ver projeto Análise de Pareto"></a>
+				<a href="https://github.com/RamonCintas/Big_Data_Dispersion_Measure"><img src="https://img.shields.io/badge/ver%20projeto%20Medida%20de%20Dispersão-E7ECEB?style=for-the-badge&logo=phoenixframework&logoColor=%23FD4F00" alt="Ver projeto Medida de Dispersão"></a>
 		</tr>
 	</tbody>
 </table>
