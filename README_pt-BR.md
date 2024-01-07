@@ -146,8 +146,8 @@
 			<td valign="top">
 				<h3>Saúde: Projeto Registros de Saúde, Projeto API Doações online</h3>
 				<p>⚡ Projetos para aprimorar os conhecimentos de programação com o foco em saúde e doação.</p>
-				<a href="https://github.com/RamonCintas"><img src="https://img.shields.io/badge/ver%20projeto%20Registros%20de%20Saúde-E7ECEB?style=for-the-badge&logo=phoenixframework&logoColor=%23FD4F00" alt="Ver projeto Registros de Saúde"></a>
 				<a href="https://github.com/RamonCintas"><img src="https://img.shields.io/badge/ver%20projeto%20API%20Doações%20online-E7ECEB?style=for-the-badge&logo=phoenixframework&logoColor=%23FD4F00" alt="Ver projeto API Doações online"></a>
+				<a href="https://github.com/RamonCintas"><img src="https://img.shields.io/badge/ver%20projeto%20Registros%20de%20Saúde-E7ECEB?style=for-the-badge&logo=phoenixframework&logoColor=%23FD4F00" alt="Ver projeto Registros de Saúde"></a>
 			</td>
 		</tr>
 		<tr>
