@@ -23,8 +23,56 @@
 
 ### 🎯 Fluente em linguagens de programação e nunca parando de aprender
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&size=35&pause=1000&color=00FF04FF&center=true&vCenter=true&random=false&width=1000&lines=Olá+Mundo!+Eu+sou+Ramon+Cintas;Desenvolvedor+full-stack+web+e+app+;Experiencia+com+UI/UX+Designer;Sempre+aprendendo+coisas+novas;Graduando+no+curso+ADS+;Estudando+na+Fatec+à+noite;Estou+no+5º+semestre;Disponível+para+entrevistas;Estou+disponível+para+contato;Bem-vindo(a)+ao+meu+portfólio)](https://www.linkedin.com/in/ramon-cg/)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&size=35&pause=1000&color=00FF04FF&center=true&vCenter=true&random=false&width=1000&lines=Olá+Mundo!+Eu+sou+Ramon+Cintas;Desenvolvedor+full-stack+web+e+app+;Experiência+com+UI/UX+Designer;Sempre+aprendendo+coisas+novas;Disponível+para+entrevistas;Disponível+para+contato;Bem-vindo(a)+ao+meu+portfólio)](https://www.linkedin.com/in/ramon-cg/)
 
+---
+
+<details> 
+  <summary><h2>👨‍🎓 Sobre mim e certificados</h2></summary>
+	<h3>🌐 Links</h3>
+	<div align="justify"> 
+		<p>
+			♦ Perfil Corporativo:<br>
+			- LinkedIn: https://www.linkedin.com/in/ramon-cg<br>
+			♦ Certificados:<br>
+			- Google Drive: https://drive.google.com/drive/folders/1ZaPoDqXWUu8E528lbKb6i0qPQX4G7PY6?usp=share_link<br>
+			♦ Portfólio Digital<br>
+			- GitHub: https://github.com/RamonCintas<br>
+		</p>
+	</div>
+  <h3>🍃 Habilidades sociais</h3>
+	<div align="justify"> 
+		<p>
+			- Tenho facilidade em manter um bom relacionamento interpessoal e a capacidade de adaptar-me a normas e procedimentos, e também desenvolver o trabalho em equipe, boa comunicação de forma clara e concisa, proativo, dinâmico e consultivo para identificar as prioridades da empresa. <br>
+			- Estou sempre buscando aprimoramento profissional e pessoal para evoluir nas mais diversas áreas de conhecimento para encontrar e / ou desenvolver soluções criativas para problemas complexos de curto e longo prazo. <br>
+			- Tenho o hábito de revisar e verificar alguma possível melhoria em um projeto, capacidade de trabalhar de forma independente e sob pressão e um bom gerenciamento de tempo e de projetos. <br>
+			- Sempre utilizo a educação, respeito, empatia, transparência, valores éticos e morais, resiliência e atenção aos detalhes para desenvolver todas as minhas atividades.
+		</p>
+	</div>
+  <h3>👨‍💻 Habilidades técnicas</h3>
+	<div align="justify"> 
+		<p>
+			- Estou atualmente focado no desenvolvimento de websites, mais
+			especificamente estou estudando as principais tecnologias do
+			mercado tanto para o front-end quanto para o back-end como:
+			HTML, CSS, JavaScript, TypeScript, Angular, React, SQL, Java,
+			Spring e PHP.<br>
+			- Quando se trata de banco de dados tenho conhecimentos tanto
+			com bancos de dados relacionais (SQL) quanto não relacionais
+			(NoSQL).<br>
+			- Tenho Conhecimentos bem sólidos nos sistemas operacionais
+			mais atuais, além de conhecimentos de DevOps e desenvolvimento
+			com a cultura ágil. Também possuo experiências com outras
+			tecnologias como: Python, Go, programação em blocos e Kotlin.
+			Para Design tenho conhecimentos sobre UX e UI utilizando as
+			plataformas Figma e Canva.<br>
+			- Sempre utilizo as boas práticas, convenções e notações tais
+			como da UML, BPMN e Diagramas utilizando as plataformas como:
+			ASTAH, Lucidchart e Diagrams.net.
+		</p>
+	</div>
+	
+</details>
 
 ---
 
@@ -111,7 +159,7 @@
 <table>
 	<thead>
 		<tr>
-			<th colspan="2" width="2000"><h2>📘 Projetos de código privado</h2></th>
+			<th colspan="2" width="2000"><h2>📘 Principais Projetos</h2></th>
 		</tr>
 	</thead>
 	<tbody>
@@ -177,7 +225,7 @@
 <table>
 	<thead>
 		<tr>
-			<th colspan="2" width="2000"><h2>📖 Projetos de código aberto</h2></th>
+			<th colspan="2" width="2000"><h2>📖 Demais Projetos</h2></th>
 		</tr>
 	</thead>
 	<tbody>
