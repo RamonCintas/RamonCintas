@@ -1,4 +1,5 @@
 <div align="right">
+	<spam>Idiomas</spam>
 	
   [![English](https://flagsapi.com/US/flat/32.png)](README.md)
   [![Portuguese](https://flagsapi.com/BR/flat/32.png)](README_pt-BR.md)
@@ -23,12 +24,12 @@
 
 ### 🎯 Fluente em linguagens de programação e nunca parando de aprender
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&size=35&pause=1000&color=00FF04FF&center=true&vCenter=true&random=false&width=1000&lines=Olá+Mundo!+Eu+sou+Ramon+Cintas;Desenvolvedor+full-stack+web+e+app+;Experiência+com+UI/UX+Designer;Sempre+aprendendo+coisas+novas;Disponível+para+entrevistas;Disponível+para+contato;Bem-vindo(a)+ao+meu+portfólio)](https://www.linkedin.com/in/ramon-cg/)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&size=35&pause=1000&color=00FF04FF&center=true&vCenter=true&random=false&width=1000&lines=Olá+Mundo!+Eu+sou+Ramon+Cintas;Desenvolvedor+full-stack+web+e+app+;Experiência+com+UI/UX+Designer;Sempre+aprendendo+coisas+novas;Disponível+para+entrevista;Disponível+para+contato;Bem-vindo(a)+ao+meu+portfólio)](https://www.linkedin.com/in/ramon-cg/)
 
 ---
 
 <details> 
-  <summary><h2>👨‍🎓 Sobre mim e certificados</h2></summary>
+  <summary><h2>🚀 Sobre mim e certificados</h2></summary>
 	<h3>🌐 Links</h3>
 	<div align="justify"> 
 		<p>
@@ -40,7 +41,7 @@
 			- GitHub: https://github.com/RamonCintas<br>
 		</p>
 	</div>
-  <h3>🍃 Habilidades sociais</h3>
+  <h3>👨‍🎓 Habilidades sociais</h3>
 	<div align="justify"> 
 		<p>
 			- Tenho facilidade em manter um bom relacionamento interpessoal e a capacidade de adaptar-me a normas e procedimentos, e também desenvolver o trabalho em equipe, boa comunicação de forma clara e concisa, proativo, dinâmico e consultivo para identificar as prioridades da empresa. <br>
@@ -290,7 +291,12 @@
 	</tbody>
 </table>
 
+<p>
+	<b>Observação:</b> Todos os códigos deste repositório Ramon Cintas são privados com o readme disponíveis, caso queira algum código só entrar em contato. Todos os repositórios que estão na organização Ramon Cintas Gomes são públicos e seguem juntamente com o nome do autor do código. 
+</p>
+
 ---
+
 
 <br>
 <div align="center">
