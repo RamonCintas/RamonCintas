@@ -280,12 +280,12 @@
 		</tr>
 		<tr>
 			<td align="center" valign="center" width="200" height="200"><br />
-				<a href="https://github.com/RamonCintasGomes" target="_blank"><img src="https://github.com/RamonCintas/RamonCintas/blob/main/assets/organizacao.jpg" /></a>
+				<a href="https://github.com/RamonCintasGomes/.github/blob/main/profile/README_pt-BR.md" target="_blank"><img src="https://github.com/RamonCintas/RamonCintas/blob/main/assets/organizacao.jpg" /></a>
 		      	</td>
 			<td valign="top">
 				<h3>Projetos de base: Organização Ramon Cintas Gomes</h3>
 				<p>⚡ Aqui estão todos os repositórios que foram usados como base para alguns projetos que foram desenvolvidos no meu repositório de portfólio digital RamonCintas.</p>
-				<a href="https://github.com/RamonCintasGomes" target="_blank"><img src="https://img.shields.io/badge/Ir%20para%20a%20organização-E7ECEB?style=for-the-badge&logo=phoenixframework&logoColor=%23FD4F00" alt="Ver organização"></a>
+				<a href="https://github.com/RamonCintasGomes/.github/blob/main/profile/README_pt-BR.md" target="_blank"><img src="https://img.shields.io/badge/Ir%20para%20a%20organização-E7ECEB?style=for-the-badge&logo=phoenixframework&logoColor=%23FD4F00" alt="Ver organização"></a>
 			</td>
 		</tr>
 	</tbody>
