@@ -74,12 +74,12 @@
 		</tr>
 		<tr>
 			<th align="center" valign="center" width="200" height="200">
-    				<a href="https://github.com/RamonCintas/Analise_de_pareto"><img src="https://img.shields.io/badge/Pareto%20project-E7ECEB?style=for-the-badge&logo=phoenixframework&logoColor=%23FD4F00" alt="See Pareto Analysis project"></a>
-				<a href="https://github.com/RamonCintas/Medidas_de_dispersao"><img src="https://img.shields.io/badge/Dispersion%20project-E7ECEB?style=for-the-badge&logo=phoenixframework&logoColor=%23FD4F00" alt="See project Dispersion measures"></a>
-			 	<a href="https://github.com/RamonCintas/Registros_digitais_de_saude"><img src="https://img.shields.io/badge/Records%20project-E7ECEB?style=for-the-badge&logo=phoenixframework&logoColor=%23FD4F00" alt="See the Digital Health Records project"></a>
-				<a href="https://github.com/RamonCintas/One_Rule"><img src="https://img.shields.io/badge/One%20rule%20project-E7ECEB?style=for-the-badge&logo=phoenixframework&logoColor=%23FD4F00" alt="See One rule project"></a>
-				<a href="https://github.com/RamonCintas/Api_MongoDB"><img src="https://img.shields.io/badge/API%20MongoDB%20project-E7ECEB?style=for-the-badge&logo=phoenixframework&logoColor=%23FD4F00" alt="See API MongoDB project"></a>
-				<a href="https://github.com/RamonCintas/Processamento_de_Imagem"><img src="https://img.shields.io/badge/image%20processing%20project-E7ECEB?style=for-the-badge&logo=phoenixframework&logoColor=%23FD4F00" alt="See image processing project"></a>
+    				<a href="https://github.com/RamonCintas/Analise_de_pareto"><img src="https://img.shields.io/badge/Pareto-E7ECEB?style=for-the-badge&logo=phoenixframework&logoColor=%23FD4F00" alt="See Pareto Analysis project"></a><br>
+				<a href="https://github.com/RamonCintas/Medidas_de_dispersao"><img src="https://img.shields.io/badge/Dispersion-E7ECEB?style=for-the-badge&logo=phoenixframework&logoColor=%23FD4F00" alt="See project Dispersion measures"></a><br>
+			 	<a href="https://github.com/RamonCintas/Registros_digitais_de_saude"><img src="https://img.shields.io/badge/Records-E7ECEB?style=for-the-badge&logo=phoenixframework&logoColor=%23FD4F00" alt="See the Digital Health Records project"></a><br>
+				<a href="https://github.com/RamonCintas/One_Rule"><img src="https://img.shields.io/badge/One%20rule-E7ECEB?style=for-the-badge&logo=phoenixframework&logoColor=%23FD4F00" alt="See One rule project"></a><br>
+				<a href="https://github.com/RamonCintas/Api_MongoDB"><img src="https://img.shields.io/badge/API%20MongoDB-E7ECEB?style=for-the-badge&logo=phoenixframework&logoColor=%23FD4F00" alt="See API MongoDB project"></a><br>
+				<a href="https://github.com/RamonCintas/Processamento_de_Imagem"><img src="https://img.shields.io/badge/image%20processing-E7ECEB?style=for-the-badge&logo=phoenixframework&logoColor=%23FD4F00" alt="See image processing project"></a>
 		      	</th>
 			<th align="center" valign="center" width="200" height="200">
 				<a href="https://github.com/RamonCintas/Ciberseguranca"><img src="https://img.shields.io/badge/projects%20CyberSecurity-E7ECEB?style=for-the-badge&logo=phoenixframework&logoColor=%23FD4F00" alt="See CyberSecurity projects"></a>
