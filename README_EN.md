@@ -21,24 +21,6 @@
 
 ---
 
-<details> 
-  <summary><b>📊 Statistics and activities</b></summary>
-	<br>
-	<div align="center"> 
-		<img src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=RamonCintas&show_icons=true&include_all_commits=true&count_private=true&theme=gruvbox&hide_border=true" height="192px"/></a>
-  		<img src="https://streak-stats.demolab.com/?user=RamonCintas&theme=gruvbox&hide_border=true"/>
-  		<img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=RamonCintas&langs_count=8&layout=compact&theme=gruvbox&hide_border=true&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
-		<img src="https://github-readme-activity-graph.vercel.app/graph/?username=RamonCintas&bg_color=1F222E&color=F8D866&line=16F4F8FF&point=FFFFFF&hide_border=true" /></a>
-	</div>
-	<br>
-	<div align="center">
-	  <b align="centre"><b>Visits received on profile</b></p>  
-	  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{RamonCintas}/count.svg" /></p> 
-	</div>
-	</details>
-
----
-
 <table>
 	<thead>
 		<tr>
@@ -92,9 +74,12 @@
 		</tr>
 		<tr>
 			<th align="center" valign="center" width="200" height="200">
-    				<a href="https://github.com/RamonCintas/Analise_de_pareto"><img src="https://img.shields.io/badge/See%20Pareto%20project-E7ECEB?style=for-the-badge&logo=phoenixframework&logoColor=%23FD4F00" alt="See Pareto Analysis project"></a>
-				<a href="https://github.com/RamonCintas/Medidas_de_dispersao"><img src="https://img.shields.io/badge/See%20Dispersion%20project-E7ECEB?style=for-the-badge&logo=phoenixframework&logoColor=%23FD4F00" alt="See project Dispersion measures"></a>
-			 	<a href="https://github.com/RamonCintas/Registros_digitais_de_saude"><img src="https://img.shields.io/badge/See%20Records%20project-E7ECEB?style=for-the-badge&logo=phoenixframework&logoColor=%23FD4F00" alt="See the Digital Health Records project"></a>
+    				<a href="https://github.com/RamonCintas/Analise_de_pareto"><img src="https://img.shields.io/badge/Pareto%20project-E7ECEB?style=for-the-badge&logo=phoenixframework&logoColor=%23FD4F00" alt="See Pareto Analysis project"></a>
+				<a href="https://github.com/RamonCintas/Medidas_de_dispersao"><img src="https://img.shields.io/badge/Dispersion%20project-E7ECEB?style=for-the-badge&logo=phoenixframework&logoColor=%23FD4F00" alt="See project Dispersion measures"></a>
+			 	<a href="https://github.com/RamonCintas/Registros_digitais_de_saude"><img src="https://img.shields.io/badge/Records%20project-E7ECEB?style=for-the-badge&logo=phoenixframework&logoColor=%23FD4F00" alt="See the Digital Health Records project"></a>
+				<a href="https://github.com/RamonCintas/One_Rule"><img src="https://img.shields.io/badge/One%20rule%20project-E7ECEB?style=for-the-badge&logo=phoenixframework&logoColor=%23FD4F00" alt="See One rule project"></a>
+				<a href="https://github.com/RamonCintas/Api_MongoDB"><img src="https://img.shields.io/badge/API%20MongoDB%20project-E7ECEB?style=for-the-badge&logo=phoenixframework&logoColor=%23FD4F00" alt="See API MongoDB project"></a>
+				<a href="https://github.com/RamonCintas/Processamento_de_Imagem"><img src="https://img.shields.io/badge/image%20processing%20project-E7ECEB?style=for-the-badge&logo=phoenixframework&logoColor=%23FD4F00" alt="See image processing project"></a>
 		      	</th>
 			<th align="center" valign="center" width="200" height="200">
 				<a href="https://github.com/RamonCintas/Ciberseguranca"><img src="https://img.shields.io/badge/projects%20CyberSecurity-E7ECEB?style=for-the-badge&logo=phoenixframework&logoColor=%23FD4F00" alt="See CyberSecurity projects"></a>
