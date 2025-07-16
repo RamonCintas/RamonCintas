@@ -1,0 +1,50 @@
+name: Pac-Man Contributions
+
+on:
+  schedule:
+    - cron: "0 0 1 * *" # Executa no dia 1 de cada mês à meia-noite UTC
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    name: Gerar SVG de Contribuições Pac-Man
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout do código
+        uses: actions/checkout@v4
+
+      - name: Criar diretório de saída
+        run: mkdir -p assets/dist
+
+      - name: Gerar gráfico Pac-Man de contribuições
+        uses: RamonCintasGomes/svg-pacman-contributions@main
+        with:
+          github_user_name: RamonCintas
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          theme: github-dark
+          output_directory: assets/dist
+
+      - name: Verificar alterações
+        id: git-check
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+          git add assets/dist/*.svg
+          if git diff --cached --quiet; then
+            echo "changed=false" >> $GITHUB_OUTPUT
+          else
+            echo "changed=true" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Commit e push do SVG gerado
+        if: steps.git-check.outputs.changed == 'true'
+        run: |
+          git commit -m "Atualiza SVG do Pac-Man"
+          git push
