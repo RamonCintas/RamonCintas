@@ -105,6 +105,6 @@
 
 ---
 
-![chat](https://github.com/RamonCintas/RamonCintas/blob/main/chat.svg)
+![chat](https://raw.githubusercontent.com/RamonCintas/RamonCintas/main/chat.svg)
 
 ---
