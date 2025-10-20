@@ -106,3 +106,7 @@
   <img alt="Gráfico de contribuição do Pac-Man" src="https://raw.githubusercontent.com/RamonCintas/RamonCintas/main/assets/dist/pacman-contribution-graph-dark.svg" />
 	
 ---
+
+![chat](https://github.com/RamonCintas/RamonCintas/blob/main/chat.svg)
+
+---
